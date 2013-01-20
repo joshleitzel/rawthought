@@ -12,4 +12,7 @@ Please note that, in the interest of getting this out there, most of these files
 
 As ever, many eyes are better than one. Sit down and read through five random posts. Compare them to the original blog entries on the website (original links are included with each post); if you find errors, please fix them (in the Markdown in the post’s subdirectory) and submit a pull request. Alternatively, you can email me at joshleitzel@gmail.com.
 
+## Contributing & Development
+I wrote a set of Ruby scripts to fetch the data, parse it, and convert it into the various formats. The scripts are included, but are a bit messy right now. I hope to get time to clean them up a bit to make it easier for others to use. I also used the excellent [Pandoc](http://johnmacfarlane.net/pandoc/) to convert between formats, so you will need to have that installed on your system if you wish to do the same.
+
 Happy reading! This is my small [#pdftribute](http://pdftribute.net/) to Aaron.
