@@ -1,4 +1,4 @@
-# Raw Thought: The Weblog of Aaron Swartz in Markdown, PDF, and ePub
+# Raw Thought: The Weblog of Aaron Swartz in Markdown, PDF, ePub, and Mobi
 This repo is a collection of the late Aaron Swartz’s [blog posts](http://aaronsw.com/weblog). The contents are available in two formats:
 
 - First, each post is available individually in Markdown, HTML, and PDF. These files are found in the posts’ subdirectories under the `posts/` directory. For example, the post “Change of Course” from 7/16/05 has the following files: [Markdown](https://github.com/joshleitzel/rawthought/blob/master/posts/2005-07-16-newethics/newethics.md), [HTML](https://github.com/joshleitzel/rawthought/blob/master/posts/2005-07-16-newethics/newethics.html), [PDF](https://github.com/joshleitzel/rawthought/blob/master/posts/2005-07-16-newethics/newethics.pdf?raw=true)
@@ -7,7 +7,7 @@ This repo is a collection of the late Aaron Swartz’s [blog posts](http://aaron
 ## Download links
 Download Aaron’s blog as one file: [Markdown](https://raw.github.com/joshleitzel/rawthought/master/rawthought.md) | [PDF](https://github.com/joshleitzel/rawthought/raw/master/rawthought.pdf) | [ePub](https://github.com/joshleitzel/rawthought/raw/master/rawthought.epub) | [Mobi](https://github.com/joshleitzel/rawthought/raw/master/rawthought.mobi)
 
-Note: The Kindle (.mobi) version was created using Amazon’s [KindleGen](http://www.amazon.com/gp/feature.html?ie=UTF8&docId=1000765211) tool using the ePub as a source. I checked it using [Kindle Previewer]() and it looks mostly okay, but apologies if it is worse than the other versions.
+Note: The Kindle (.mobi) version was created using Amazon’s [KindleGen](http://www.amazon.com/gp/feature.html?ie=UTF8&docId=1000765211) tool using the ePub as a source. I checked it using [Kindle Previewer](http://www.amazon.com/gp/feature.html?ie=UTF8&docId=1000765261) and it looks mostly okay, but apologies if it is worse than the other versions.
 
 ## A Note on Production & Errata
 Please note that, in the interest of getting this out there, most of these files were generated automatically with the use of Ruby scripts. All effort has been made to correct glaringly obvious formatting errors, but of course some will persist. For example, some images may be broken or malformatted in the output formats.
