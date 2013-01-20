@@ -14065,6 +14065,12 @@ fascinating one.
 The Goog Life: how Google keeps employees by treating them like kids
 ====================================================================
 
+December 13, 2006
+
+[Original link](http://www.aaronsw.com/weblog/googlife)
+
+* * * * *
+
 I was talking with a friend the other day about that perennial subject
 of conversation in the Valley, Google. And finally she gave me the clue
 that made the whole place make sense. “It’s about infantilizing people,”
