@@ -1,0 +1,76 @@
+<div class="content">
+<h1>Rewriting Reddit</h1>
+<div>December  6, 2005</div>
+<a href="http://www.aaronsw.com/weblog/rewritingreddit">Original link</a><hr>
+
+<p><strong>Translations:</strong> <a href="http://science.webhostinggeeks.com/ponovno-pisanje-reddit">Srpsko-Hrvatski</a></p>
+
+<p><em>2012 note: This article was first published in 2005. After it was published, Django launched a RemovingTheMagic project to address some of my criticisms (though personally I still find it unusable), <a href="http://webpy.org/">web.py</a> inspired FriendFeed&rsquo;s <a href="http://www.tornadoweb.org/">tornado.web</a> and Google&rsquo;s <a href="https://developers.google.com/appengine/docs/python/gettingstarted/usingwebapp">gae.webapp</a> and others (though I still prefer web.py), and this article led to a permanent surge in Reddit traffic that still hasn&rsquo;t really stopped growing.</em></p>
+
+<p><a href="http://reddit.com/"><img align="right" src="image1_rewritingreddit" alt="reddit mascot"></a></p>
+
+<p>Over at <a href="http://reddit.com/">reddit.com</a>, we rewrote the site from Lisp to Python in the past week. It was pretty much done in one weekend. (Disclosure: We used my <a href="http://webpy.org/">web.py</a> library.) The others knew Lisp (they wrote their whole site in it) and they knew Python (they rewrote their whole site in it) and yet they decided liked Python better for this project. The Python version had less code that ran faster and was far easier to read and maintain.</p>
+
+<p>The idea that there is something better than Lisp is apparently inconceivable to some, judging from comments <a href="http://reddit.com/blog/2005/12/night-of-living-python.html">on the reddit blog</a>. The Lispers instead quickly set about trying to find the <em>real</em> reason behind the switch.</p>
+
+<p>One assumed it must have been divine intervention, since &ldquo;there seems to be no other reason for switching to an inferior language.&rdquo; Another figured something else must be going on: &ldquo;Could this be&hellip;a lie? To throw off competition? It&rsquo;s not as though Paul Graham hasn&rsquo;t hinted at this tactic in his essays&hellip;&rdquo; Another chimed in: &ldquo;I decided it was a prank.&rdquo; Another suggested the authors simply wanted more &ldquo;cut corners, hacks, and faked artisanship.&rdquo;</p>
+
+<p>These were, of course, extreme cases. Others assumed there must have been outside pressure. &ldquo;Either libraries or hiring new programmers I guess.&rdquo; Another concluded: &ldquo;some vc suit wants a maintainable-by-joe-programmer product. I hope he pays you millions.&rdquo;</p>
+
+<p>The Lisp newsgroup, <code>comp.lang.lisp</code>, was upset about the switch that they&rsquo;re currently <a href="http://groups.google.com/group/comp.lang.lisp/browse_frm/thread/f560fdfb211aa8cb/c0159fbbc6496def">planning to <em>write a competitor</em> to reddit in Lisp</a>, to show how right they are or something.</p>
+
+<p>The more sane argued along the lines of saying Lisp&rsquo;s value lies in being able to create <a href="http://reddit.com/blog/2005/12/night-of-living-python.html#113382802678872391">new linguistic constructs</a> and that for something like a simple web app, this isn&rsquo;t necessary, since the constructs have been already built. But even this isn&rsquo;t true. <a href="http://webpy.org/">web.py</a> was built pretty much from scratch and uses all sorts of &ldquo;new linguistic constructs&rdquo; and &mdash; even better &mdash; these constructs have syntax that goes along with them and makes them reasonably readable. Sure, Python isn&rsquo;t Perl 6, so you can&rsquo;t add arbitrary syntax, but you can often find a clever way to get the job done.</p>
+
+<hr>
+<p>Python, on the other hand, has problems of its own. The biggest is that it has dozens of web application frameworks, but none of them are any good. Pythonists are well aware of the first part but apparently not of the second, since when I tell them that I&rsquo;m using my own library, the universal response is &ldquo;I don&rsquo;t think Python needs another web application framework&rdquo;. Yes, Python needs fewer web application frameworks. But it also needs one that doesn&rsquo;t suck.</p>
+
+<p>The framework that seems most promising is <a href="http://djangoproject.com/">Django</a> and indeed we initially attempted to rewrite Reddit in it. As the most experienced Python programmer, I tried my best to help the others out.</p>
+
+<p>Django seemed great from the outside: a nice-looking website, intelligent and talented developers, and a seeming surplus of nice features. The developers and community are extremely helpful and responsive to patches and suggestions. And all the right goals are espoused in their philosophy documents and FAQs. Unfortunately, however, they seem completely incapable of living up to them.</p>
+
+<p>While Django claims that it&rsquo;s &ldquo;loosely coupled&rdquo;, using it pretty much requires fitting your code into Django&rsquo;s worldview. Django insists on executing your code itself, either through its command-line utility or a specialized server handler called with the appropriate environment variables and Python path. When you start a project, by default Django creates folders nested four levels deep for your code and while you can move around some files, I had trouble figuring out which ones and how.</p>
+
+<p>Django&rsquo;s philosophy says &ldquo;Explicit is better than implicit&rdquo;, but Django has all sorts of magic. Database models you create in one file magically appear someplace else deep inside the Django module with a different name. When your model function is called, new things have been added to its variable-space and old ones removed. (I&rsquo;m told they&rsquo;re currently working on fixing both of these, though.)</p>
+
+<p>Another Django goal is &ldquo;less code&rdquo;, at least for you. But Django is simply full of code. Inside the django module are 10 different folders and inside each of those are a few more. By the time you actually build a site in the Django tutorial, you&rsquo;ve imported <code>django.core.meta</code>, <code>django.models.polls</code>, <code>django.conf.urls.defaults.*</code>, <code>django.utils.httpwrappers.HttpResponse</code>, and <code>django.core.extensions.render_to_response</code>. It&rsquo;s not clear how anyone is supposed to remember all that, especially since there appear to be no guiding principles for what goes where or how it&rsquo;s named. Three of these are inserted automatically by the start scripts, but you still need to memorize such names for every other function you want to use.</p>
+
+<p>But Django&rsquo;s most important problem is that its developers seem incapable of designing a decent API. They&rsquo;re clearly capable Python programmers &mdash; their code uses all sorts of bizarre tricks. And they&rsquo;re clearly able to write code that works &mdash; they have all sorts of interesting features. But they can&rsquo;t seem to shape this code into something that other people can use.</p>
+
+<p>Their APIs are ugly and regularly missing key features: the database API figures out queries by counting underscores but has no special syntax for JOINs, the template system requires four curly braces around every variable and can&rsquo;t do any sort of computation, the form API requires 15 lines to process a form and can&rsquo;t automatically generate the template.</p>
+
+<p>I tried my best to fix things &mdash; and the Django community was extremely supportive &mdash; but the task simply dwarfed me. I just couldn&rsquo;t do it mentally, let alone with the time constraints of having to actually build my own application for my own startup.</p>
+
+<hr>
+<p>And so, Lisp and Django found wanting, we&rsquo;re left with <a href="http://webpy.org/">web.py</a>. I&rsquo;d like to say that web.py learned from these mistakes and was designed to avoid them, but the truth is that web.py was written long before all this and managed to avoid them anyway.</p>
+
+<p>The way I wrote web.py was simple: I imagined how things should work and then I made that happen. Sometimes making things just work takes a lot of code. Sometimes it only takes a little. But either way, that fact is hidden from the user &mdash; they just get the ideal API.</p>
+
+<p>So how should things work? The first principle is that code should be clear and simple. If you want to output some text, you call web.output. If you want to get form input, you call web.input. There&rsquo;s nothing particularly hard to remember.</p>
+
+<p>The second principle is that web.py should fit your code, not the other way around. Every function in web.py is completely independent, you can use whichever ones you want. You can put your files wherever you like, and web.py will happily follow along. If you want a piece of code to be run as a web app, you call web.run, you don&rsquo;t put your code in the magical place so that web.py can run you.</p>
+
+<p>The third principle is that web.py should, by default, do the right thing by the Web. This means distinguishing between GET and POST properly. It means simple, canonical URLs which synonyms redirect to. It means readable HTML with the proper HTTP headers.</p>
+
+<p>And that, as far as I&rsquo;m concerned, are pretty much all the principles you need. They seem pretty simple and obvious to me and I&rsquo;m even willing to fudge on some of them, but no other Python web app framework seems to even come close. (If you know of one, tell me and I&rsquo;ll happily recant. I don&rsquo;t want to be in this business.) Until then, it looks like I&rsquo;m forced to do that horrible thing I&rsquo;d rather not do: release one more Python web application framework into the world.</p>
+
+
+
+
+
+<script type="text/javascript"><!--
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<style type="text/css">#comments_body { display: none}</style>');
+}
+//--></script>
+
+<script type="text/javascript"><!--
+function showComments() {
+  document.getElementById('comments_show').style.display='none';
+  document.getElementById('comments_body').style.display='block';
+  return false;
+}
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<p id="comments_show"><a href="#comments" onclick="return showComments();">Read comments.</a></p>');
+}
+//--></script>
+</div>

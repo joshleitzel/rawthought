@@ -1,0 +1,67 @@
+<div class="content">
+<h1>RSS Hits the Big Time</h1>
+<div>February 21, 2009</div>
+<a href="http://www.aaronsw.com/weblog/rssstimulus">Original link</a><hr>
+
+<p>As <a href="http://groups.google.com/group/sunlightlabs/browse_thread/thread/dfd9fd76be9b6f1b">chaunceyt pointed out</a>, the new stimulus bill&rsquo;s <a href="http://www.recovery.gov/files/Initial%20Recovery%20Act%20Implementing%20Guidance.pdf">implementation instructions</a> require that each government agency report the money it gives out in RSS:</p>
+
+<blockquote>
+  <p>For each of the near term reporting requirements (major communications, formula block grant allocations, weekly reports) agencies are required to provide a feed (preferred: Atom 1.0, acceptable: RSS) of the information so that content can be delivered via subscription.</p>
+</blockquote>
+
+<p>The document is very clear that the items in the feed can&rsquo;t simply be unstructured text, but have to be reusable data, e.g.:</p>
+
+<blockquote>
+<p><strong>Formula Block Grant Allocation Reports:</strong> Agencies are asked to provide Formula Block Grant Allocation information as soon as it becomes available. Data elements for the formula block grant allocation feed should include:</p>
+<table>
+<tr style="background-color: #ccc">
+<th style="text-align: center">Data Elements</th>
+<th style="text-align: left">Description</th>
+<th style="text-align: center">Field Type</th>
+</tr>
+<tr>
+<td>Recipient Name</td>
+<td>The name of the recipient of the award.</td>
+<td>varchar(45)</td>
+</tr>
+<tr style="background-color: #eee">
+<td>Federal Funding Amount</td>
+<td>Amount of federal government&rsquo;s obligation or contingent liability, in dollars. A negative number represents a decrease in funding.</td>
+<td>int(11)</td>
+</tr>
+<tr>
+<td>Recipient DUNS</td>
+<td>Unique nine-digit number issued by Dun &amp; Bradstreet to the agency. Followed by an optional DUNS Plus 4 which allows an agency to submit different bank account data for a single DUNS (Assigned by Dun &amp; Bradstreet)</td>
+<td>char(13)</td>
+</tr>
+<tr><td colspan="3"><em>[&hellip;]</em></td></tr>
+</table>
+</blockquote>
+
+<p>And it goes on like this for several pages.</p>
+
+<p>Pretty amazing to see a government so tech-savvy.</p>
+
+<p><strong>Obligatory plug:</strong> Want to see more like this? <a href="http://boldprogressives.org/">Sign up to keep in touch with the PCCC</a>. We&rsquo;re trying to get better congresspeople elected thru Internet organizing and better tools.</p>
+
+
+
+
+
+<script type="text/javascript"><!--
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<style type="text/css">#comments_body { display: none}</style>');
+}
+//--></script>
+
+<script type="text/javascript"><!--
+function showComments() {
+  document.getElementById('comments_show').style.display='none';
+  document.getElementById('comments_body').style.display='block';
+  return false;
+}
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<p id="comments_show"><a href="#comments" onclick="return showComments();">Read comments.</a></p>');
+}
+//--></script>
+</div>

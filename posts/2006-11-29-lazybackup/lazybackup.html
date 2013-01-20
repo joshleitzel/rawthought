@@ -1,0 +1,49 @@
+<div class="content">
+<h1>Lazy Backup</h1>
+<div>November 29, 2006</div>
+<a href="http://www.aaronsw.com/weblog/lazybackup">Original link</a><hr>
+
+<p>If there&rsquo;s one thing good UI designers know, it&rsquo;s that the best UI is not to have one at all. Applications should just save, security should just work, and computers should just backup.</p>
+
+<p>Apparently that last task is a harder than it appears, since I still haven&rsquo;t found decent backup software for Unix (OS X and GNU/Linux).</p>
+
+<p>Here is how the software should work:</p>
+
+<ol>
+<li><p>I install it.</p></li>
+<li><p>I point it at some storage server (ideally Amazon EC2 and S3, but if that&rsquo;s too hard then a GNU/Linux server with a large drive).</p></li>
+<li><p>I give it a maximum space limit (e.g. store no more than 200GB).</p></li>
+<li><p>I give it a maximum up-bandwidth limit (e.g. use no more than 5K/s).</p></li>
+<li><p>I tell it to run.</p></li>
+</ol>
+<p>From then on, it should just work. In the background, it will upload my files to the server using only 5K/s of bandwidth. If I get disconnected from the Internet or reboot my computer, when I get back on it will pick up where it left off. If a file changes it will only send the diff and store that as well. When I run out of disk space it will delete the old diffs.</p>
+
+<p>It will preserve all the Unix ACLs and permissions and weird Mac OS X resource forks and stuff so that if my drive ever dies I can make a full bootable restore from the backup.</p>
+
+<p>Does this software exist?</p>
+
+<p>The closest I&rsquo;ve seen is <a href="http://www.nongnu.org/rdiff-backup/">rdiff-backup</a>, which is very nice but fails to automate some key steps.</p>
+
+<p>If it doesn&rsquo;t exist, let me know if you&rsquo;re interested in writing it (a wrapper around <code>rdiff-backup</code> to do it shouldn&rsquo;t be too hard, I would think). I&rsquo;d be willing to offer a bounty.</p>
+
+
+
+
+
+<script type="text/javascript"><!--
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<style type="text/css">#comments_body { display: none}</style>');
+}
+//--></script>
+
+<script type="text/javascript"><!--
+function showComments() {
+  document.getElementById('comments_show').style.display='none';
+  document.getElementById('comments_body').style.display='block';
+  return false;
+}
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<p id="comments_show"><a href="#comments" onclick="return showComments();">Read comments.</a></p>');
+}
+//--></script>
+</div>

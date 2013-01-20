@@ -1,0 +1,71 @@
+<div class="content">
+<h1>How To Launch Software</h1>
+<div>August 22, 2008</div>
+<a href="http://www.aaronsw.com/weblog/howtolaunch">Original link</a><hr>
+
+<p>37signals recommends that software developers pursue what they call <a href="http://gettingreal.37signals.com/ch13_Hollywood_Launch.php">the Hollywood Launch</a>. They don&rsquo;t give any argument for this method, except perhaps the title (as if Hollywood was a business you should try to imitate?) &mdash; I guess the idea is that you&rsquo;re supposed to do it since 37signals says to.</p>
+
+<p>The basic idea behind the Hollywood Launch is simple: you release a few hints about your product to build buzz, slowly revealing more and more until the big day, when you throw open the doors and people flood your site, sent there by all the blog coverage and email alerts.</p>
+
+<p>This may work well for Hollywood &mdash; if your movie is a big hit at the box-office on opening weekend, then the movie theaters are more likely to keep showing it in the weeks to come and you get credit for being &ldquo;one of the weekend&rsquo;s biggest films&rdquo;. But for software developers, it&rsquo;s moronic. Your software isn&rsquo;t being released in theaters, it&rsquo;s available over the Web. You don&rsquo;t have to worry about the theater no longer showing after week one; you can keep pushing it for years, growing your userbase.</p>
+
+<p>Instead what happens when software developers try the Hollywood Launch, and I&rsquo;ve seen this many times, is that users indeed do flood to your site on launch day but&hellip;</p>
+
+<ol>
+<li><p>They bring the site down from the load. You scramble to get it back up and succeed by coding like a mad man, only to find&hellip;</p></li>
+<li><p>They discover some big bug that you never quite noticed before, which makes the whole thing look like embarrassing hackwork. (<em>What? You forgot to test that last-minute JavaScript change in IE6 1/2?</em>) So you&rsquo;re desperately rushing to fix the bug before the traffic dies down, rush-patching things and restarting the server when&hellip;</p></li>
+<li><p>You bring the site down for everyone because there was a syntax error in your patch that keeps the server from coming back up. You fix it while cursing yourself madly. Finally everything seems to work. You take a breath and decide to see what people are saying about you on the Web, only to discover&hellip;</p></li>
+<li><p>Everyone misunderstood what your product does because your front page wasn&rsquo;t clear enough. Now they all think it&rsquo;s stupid and wonder aloud how you even know how to breathe. So you reply in all the comment threads and fix your front page to ensure no one could possibly misunderstand what it is you&rsquo;re doing just in time to find&hellip;</p></li>
+<li><p>All the traffic is gone.</p></li>
+</ol>
+<p>Tomorrow, hardly any of those users come back. Your traffic graphs look like the sharpest mountain you&rsquo;ve ever seen: a huge climb up and then, almost immediately, a similarly-sized crash back down.</p>
+
+<p>So what do you do then? Well, you do what you should have done all along: you grow the site.</p>
+
+<p>I&rsquo;ll call this technique the Gmail Launch, since it&rsquo;s based on what Gmail did. Gmail is probably one of the biggest Web 2.0 success stories, so there&rsquo;s an argument in its favor right there. Here&rsquo;s how it works:</p>
+
+<ol>
+<li><p>Have users from day one. Obviously at the very beginning it&rsquo;ll just be yourself and your co-workers, but as soon as you have something that you don&rsquo;t cringe while using, you give it to your friends and family. Keep improving it based on their feedback and once you have something that&rsquo;s tolerable, let them invite their friends to use it too.</p></li>
+<li><p>Try to get lots of feedback from these new invitees, figuring out what doesn&rsquo;t make sense, what needs to be fixed, and what things don&rsquo;t work on their bizarre use case combination. Once these are all straightened out, and they&rsquo;re using it happily, you let them invite their friends. Repeat until things get big enough that you need to&hellip;</p></li>
+<li><p>Automate the process, giving everyone some invite codes to share. By requiring codes, you protect against a premature slashdotting and force your users to think carefully about who actually would want to use it (getting them to do your marketing for you). Plus, you make everyone feel special for using your product. (You can also start (slowly!) sending invite codes to any email lists you might have.)</p></li>
+<li><p>Iterate: give out invite codes, fix bugs, make sure things are stable. Stay in this phase until the number of users you&rsquo;re willing to invite is about the same as the number you expect will initially sign up if you make the site public. For Gmail, this was a long time, since a lot of people wanted invites. You can probably safely do it sooner.</p></li>
+<li><p>Take off the invite code requirement, so that people can use the product just by visiting its front page. Soon enough, random people will come across it from Google or various blogs and become real users.</p></li>
+<li><p>If all this works &mdash; if random people are actually happy with your product and you&rsquo;re ready to grow even larger &mdash; <em>then</em> you can start building buzz and getting press and blog attention. The best way to do this is to have some kind of news hook &mdash; some gimmick or controversial thing that everyone will want to talk about. (With reddit, the big thing was that we switched from Lisp to Python, which was discussed endlessly in the Lisp and Python communities and gave us our first big userbase.)</p></li>
+<li><p>Start marketing. Once you start using up all the growth you can get by word-of-mouth (and this can take a while &mdash; Google is only getting to this stage <em>now</em>), you can start doing advertising and other marketing-type things to provide the next big boost in growth.</p></li>
+</ol>
+<p>The result will be a graph that just keeps accelerating and climbing up. That&rsquo;s the graph that everyone loves to see: solid growth, not a one-day wonder. Good luck.</p>
+
+<hr>
+<p>Since 37signals quotes from people who followed their advice, I thought I might as well do the same. <a href="http://news.ycombinator.com/item?id=284057">mojombo</a>:</p>
+
+<blockquote>
+  <p>I find this to be excellent advice. This is exactly the approach we took at GitHub almost down to the letter. It took about 2 months until the site was good enough to use to host the GitHub source, another month until we started private beta with invites, and three more months until public launch.</p>
+  
+  <p>Artificial scarcity is a great technique to generate excitement for a product while also limiting growth to a rate that won&rsquo;t melt your servers. We worked through a huge number of problems and early users gave us some of the ideas that have defined GitHub. By doing a Hollywood launch, things would have been very different and I am convinced, very much worse.</p>
+  
+  <p>Do not, I repeat, DO NOT underestimate how much your users will help you to define your product. If you launch without having significant user feedback time, you&rsquo;ve essentially thrown away a massive (and free) focus group study.</p>
+  
+  <p>Let me also say that when we finally did our public launch, there was plenty of buzz, and all of it was the RIGHT kind of buzz. The buzz that attracts real, lasting customers (and no, we weren&rsquo;t on TechCrunch, that traffic is garbage).</p>
+</blockquote>
+
+
+
+
+
+<script type="text/javascript"><!--
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<style type="text/css">#comments_body { display: none}</style>');
+}
+//--></script>
+
+<script type="text/javascript"><!--
+function showComments() {
+  document.getElementById('comments_show').style.display='none';
+  document.getElementById('comments_body').style.display='block';
+  return false;
+}
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<p id="comments_show"><a href="#comments" onclick="return showComments();">Read comments.</a></p>');
+}
+//--></script>
+</div>

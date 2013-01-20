@@ -1,0 +1,82 @@
+<div class="content">
+<h1>Bubble City: Chapter 6</h1>
+<div>November  8, 2007</div>
+<a href="http://www.aaronsw.com/weblog/bubblecity6">Original link</a><hr>
+
+<p>Miller ushered him into a clean, but ancient, little house with leather sofas and bright windows. &ldquo;Take a seat,&rdquo; he said. &ldquo;Can I get you anything?&rdquo; &ldquo;Uh, no thanks,&rdquo; Jason said, a bit surprised at this reception. &ldquo;OK, I&rsquo;m gonna fix myself a drink,&rdquo; Miller said, heading into the kitchen.</p>
+
+<p>&ldquo;You know,&rdquo; he said in between noises of liquids mixing and ice crunching, &ldquo;I always knew someday someone would call me to account. I&rsquo;m actually kind of surprised it took so long.&rdquo; He returned and grabbed a chair across from Jason. &ldquo;Alright, so let&rsquo;s do this: I think you have something you want to ask me.&rdquo;</p>
+
+<p>Caught a bit off-guard by all the frankness&mdash;and the prescience&mdash;Jason began by stuttering. &ldquo;Well, uh, I was looking through the NNA code and, as I&rsquo;m sure you know, well, I mean obviously you know, there&rsquo;s this section in there that&rsquo;s just a series of numbers. S-boxes, you might call them.&rdquo; Miller laughed. &ldquo;Anyway, it appears to me that the S-boxes only affect the results under fairly unusual circumstances &mdash; that they seem to be a kind of backdoor allowing someone to remotely control the output of NNA.&rdquo;</p>
+
+<p>&ldquo;So you haven&rsquo;t found the key yet?&rdquo; &ldquo;No, not yet. That code is impenetrable!&rdquo; Miller laughed. &ldquo;I was hoping you might be able to shed some light.&rdquo; &ldquo;Come on, now. I&rsquo;m sure you&rsquo;re nice, but I&rsquo;m not about to give out the backdoor to NNA to any pretty young thing that happens to come out here and knock on my door. Anyway, even if I wanted to, I couldn&rsquo;t. Yahoo insisted on wiping all my drives after I left the company. I don&rsquo;t have the key anymore.&rdquo;</p>
+
+<p>&ldquo;But surely you can reconstruct it? I mean, the code is open source &mdash; you can see the backdoor right there.&rdquo; &ldquo;Yes, but it was a sort of public key-style system. What&rsquo;s in the code is just the public part; anyone can read that. But it was generated from the private key &mdash; the series of patterns that will trigger it. Basically, what you see in those S-boxes is just the hash of the private key and it only kicks in if the hash of a voting cluster matches.&rdquo;</p>
+
+<p>&ldquo;So why&rsquo;d you do it? For fun?&rdquo; &ldquo;Of course not. I knew it was wrong. I wasn&rsquo;t gonna pull another Dennis Ritchie. I was ordered to. The folks at Yahoo insisted that if we were going to open source this engine they had to have a way of clearing out illegal and offensive stories; otherwise it&rsquo;d tarnish their good name. Of course, that department disappeared in a reorg shortly after the software&rsquo;s release and I disappeared along with it, so I suppose it&rsquo;s all kind of irrelevant now, except as a historical curiosity.&rdquo;</p>
+
+<p>&ldquo;Historical curiosity?&rdquo; Jason shouted, before realizing how loud he was being. &ldquo;It&rsquo;s a major security vulnerability in a key piece of infrastructure! Do you have any idea how bad this is?&rdquo; &ldquo;Yeah, yeah, I suppose technically it is,&rdquo; Miller said, &ldquo;but let&rsquo;s be realistic here. My copy of the key was wiped, everyone at Yahoo who knew about the project is long gone, and there weren&rsquo;t many of them to begin with. It&rsquo;s a dead letter.&rdquo;</p>
+
+<p>&ldquo;You don&rsquo;t understand,&rdquo; Jason said. &ldquo;Someone&rsquo;s using it. I don&rsquo;t know whether they were at Yahoo or whether they got it from someone or whether they figured it out, but it&rsquo;s getting used. There are anomalies in the recommendations that just can&rsquo;t be explained any other way.&rdquo; &ldquo;Oh god. What are they doing with it?&rdquo; &ldquo;Well, it&rsquo;s difficult to tell without cracking the key. The big piece I&rsquo;ve been able to spot so far is that they&rsquo;re getting inane videos recommended to everyone. But who knows what else they&rsquo;re doing.&rdquo;</p>
+
+<p>&ldquo;Well, you do. Just change the S-boxes and see what recommendations change.&rdquo; &ldquo;Ah, you&rsquo;re right! I just need to feed it the live input! If I give that to two versions with no randomness and different S-boxes, the difference will have to be exactly the orders from the backdoor. And oh god, and that&rsquo;ll tell me what the key is: I just remove all the pieces of the input that don&rsquo;t affect the difference and whatever&rsquo;s left must be what triggers the backdoor. That&rsquo;s brilliant! I just need to get my hands on a copy of the live database and some computers. Wow, thanks so much.&rdquo; &ldquo;Glad to help.&rdquo;</p>
+
+<p>&ldquo;So you&rsquo;ll come forward? Tell the world about the security hole you put in so we can force people to take it out?&rdquo; Miller laughed. &ldquo;Not a chance.&rdquo; &ldquo;But I thought you said &mdash; you said you were against it.&rdquo; &ldquo;I am, but look around. See this house? This couch? This cozy little place in the woods. I got to retire early on my Yahoo stock options. And I got those by signing some pretty iron-clad non-disclosure agreements. I talk about any of this in public and I spend the rest of my life in court, watching all of this get taken away. Sorry, kid, but you&rsquo;re on your own on this one.&rdquo;</p>
+
+<p>&ldquo;But, but,&rdquo; Jason said. &ldquo;Don&rsquo;t you see how important this is? The integrity of the world&rsquo;s news is at stake!&rdquo; &ldquo;And you seem like just the one to save it,&rdquo; Miller said. &ldquo;In fact, it seems like you already have your solution all figured out. All I can really say is best of luck to you.&rdquo;</p>
+
+<p>&ldquo;But, but,&rdquo; Jason said, exasperated. &ldquo;Well, the very least you can do is walk me through the code.&rdquo; Miller just laughed. &ldquo;That code&rsquo;s gotten so crusty since the last time I touched it. I don&rsquo;t think there&rsquo;s a person on Earth who really understands it anymore. I guess that&rsquo;s why no one else has caught the S-boxes. Everyone knows better than to go near that thing.&rdquo;</p>
+
+<p>&ldquo;Anyway, unless you have anything else, I&rsquo;ve got a game of Starcraft that I really should be getting back to,&rdquo; Miller said. &ldquo;Uh, I guess not. Thanks for talking to me about it, I guess.&rdquo; &ldquo;Oh, of course. Sorry I couldn&rsquo;t be more help. But good luck, kid. You&rsquo;ll need it.&rdquo; And with that Miller showed him the door. And Jason found himself standing alone in the middle of a hillside, wondering how a kid like him was going to save the news.</p>
+
+<hr>
+<p>When he got back, he quietly made a dump of the Newsflip database and rejiggered his program to try to dissect the live DB instead of generating random ones. He quickly saw much better results. Within hours it had pared things down to just a couple hundred thousand possibilities.</p>
+
+<p>While he was waiting, he pored over the diffs he&rsquo;d generated as Miller had suggested: the changes that the backdoor had made to people&rsquo;s recommendations. The first thing he noticed was that just about everyone was seeing crummy stories: the video of the dog peeing, news about dumb celebrities, that sort of thing. Meanwhile, real news &mdash; like the attack on Iran &mdash; was completely buried. Only a small handful ever saw it.</p>
+
+<p>Jason was shocked. The American people weren&rsquo;t being dumb &mdash; obsessed with celebrity over politics, with bodily fluids over intellectualism. That&rsquo;s just what they were being fed. And there was someone out there making sure of that.</p>
+
+<p>Jason was bubbling mad &mdash; and his anger only increased as he watched the elements tick away on his little script to search for the backdoor &mdash; each tick making his blood boil higher. And as it was almost done, the phone rang. It was Sarah.</p>
+
+<p>&ldquo;Hey kiddo,&rdquo; she sang. &ldquo;Caught you playin&rsquo; hooky at the office? What&rsquo;s up?&rdquo; she asked. &ldquo;Oh, not much,&rdquo; Jason lied. &ldquo;Just thought I&rsquo;d work from home today.&rdquo; &ldquo;Oh yeah, I get sick of those slobs too. Hey, want to come over to my place and keep me company?&rdquo; &ldquo;Uh, well,&rdquo; Jason started. &ldquo;Oh, don&rsquo;t worry. I&rsquo;ve got wifi and everything &mdash; you can work from here just fine. I promise I won&rsquo;t distract you&hellip; too much.&rdquo;</p>
+
+<p>Jason knew he should stay at home and finish what he&rsquo;d started, but a tingle of excitement ran through his body, telling him he really ought to see Sarah. &ldquo;OK, how about I come over there in twenty minutes?&rdquo; &ldquo;Sounds good,&rdquo; she said, and gave him her address. &ldquo;See you soon!&rdquo; &ldquo;See you,&rdquo; he said, and hung up.</p>
+
+<p>By then the computer had cracked the code and he went over to see what was what. It was, as predicted, a bunch of bookmarks, but in some weird series that Jason couldn&rsquo;t quite follow. He tried reproducing it by creating some dummy accounts of his own, but before he could really puzzle things out he realized that he&rsquo;d promised Sarah he&rsquo;d be there ten minutes ago and dropped what he was working on to run for the door.</p>
+
+<hr>
+<p>Deep inside the Googleplex, behind a set of keycard-locked doors, behind another set that required keys for entry, behind another set that clearly read &ldquo;NO VISITORS BEYOND THIS POINT&rdquo;, lay a series of employees that, except for the slightly-heightened security, seemed like all the others.</p>
+
+<p>Tom was going through his daily rounds of checking on the recommender results when he noticed a certain story was being recommended to him twice. The recommender was programmed to only recommend the same story to someone only once, so that never happened &mdash; unless one of his teammates screwed up. &ldquo;Hey Kevin, get over here. You fucked up again.&rdquo; A miffed-looking British fellow headed over to Tom&rsquo;s desk. &ldquo;What are you talking about?&rdquo;</p>
+
+<p>&ldquo;You fucked up &mdash; I&rsquo;m seeing this dog story getting recommended twice.&rdquo; &ldquo;But how can that be?&rdquo; Kevin asked. &ldquo;I put in safeguards to make sure that never happened again. Unreal. Are you sure it&rsquo;s not on your end?&rdquo; &ldquo;Of course it&rsquo;s not on my end &mdash; I&rsquo;m looking at the raw recommendation output.&rdquo; &ldquo;Alright, alright, well trace it back. See which posts are conflicting.&rdquo; &ldquo;OK, give me a second. Here, grab a chair.&rdquo;</p>
+
+<p>&ldquo;Whoa, this is weird,&rdquo; Tom said. &ldquo;I don&rsquo;t recognize any of these accounts. Do you?&rdquo; &ldquo;Numbered account names? We&rsquo;d never be so blatant. Fuck. You know what this means, right?&rdquo; &ldquo;We have an incompetent intern?&rdquo; &ldquo;No, moron, it means someone&rsquo;s onto us. They&rsquo;ve figured out the back door and they&rsquo;re testing it for themselves.&rdquo; &ldquo;Oh shit. Shit, shit, shit. What do we do?&rdquo; &ldquo;What can we do? We gotta talk to Saul.&rdquo;</p>
+
+<p>They headed over to a slightly larger cubicle hidden in a corner. &ldquo;Saul, we&rsquo;ve got a situation here.&rdquo; &ldquo;Situation?&rdquo; Saul asked. &ldquo;What is this? Some kind of spy movie? What&rsquo;re you talking about?&rdquo; &ldquo;Someone else has found the backdoor. We spotted a bunch of bookmarks in the same pattern as we&rsquo;re using from a different set of accounts.&rdquo; &ldquo;Fuck. OK, well, thanks for telling me.</p>
+
+<p>&ldquo;Here&rsquo;s what I want you to do. You&rsquo;re going to walk calmly back to your desks. You&rsquo;re going to write up everything you&rsquo;ve learned so far and place it on this Flash drive.&rdquo; He removed a small USB keyfob from inside his desk. You&rsquo;re then going to give me the keyfob, wipe everything related from your machines, and pretend this never ever happened, you understand? This is out of your hands now. I&rsquo;m going to make sure this gets&hellip; taken care of.&rdquo; Tom and Kevin&rsquo;s eyes widened. &ldquo;Wait,&rdquo; Tom said, &ldquo;you don&rsquo;t mean&hellip;&rdquo; &ldquo;Exactly,&rdquo; Saul replied. &ldquo;This is a job for&hellip; public relations.&rdquo;</p>
+
+<p><em>Tomorrow:</em> <a href="http://aaronsw.com/weblog/bubblecity7">Chapter Seven</a></p>
+
+
+
+
+
+<script type="text/javascript"><!--
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<style type="text/css">#comments_body { display: none}</style>');
+}
+//--></script>
+
+<script type="text/javascript"><!--
+function showComments() {
+  document.getElementById('comments_show').style.display='none';
+  document.getElementById('comments_body').style.display='block';
+  return false;
+}
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<p id="comments_show"><a href="#comments" onclick="return showComments();">Read comments.</a></p>');
+}
+//--></script>
+</div>

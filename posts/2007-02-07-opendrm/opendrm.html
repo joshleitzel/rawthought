@@ -1,0 +1,38 @@
+<div class="content">
+<h1>The Logic of Open DRM</h1>
+<div>February  7, 2007</div>
+<a href="http://www.aaronsw.com/weblog/opendrm">Original link</a><hr>
+
+<p>In his recent essay, <a href="http://www.apple.com/hotnews/thoughtsonmusic/">Thoughts on Music</a>, Apple CEO Steve Jobs has called for the labels to stop requiring him to sell their music with DRM. Most of his argument is that the labels already sell the vast majority of their music perfect digital copies without DRM &mdash; namely, CDs &mdash; but he also argues that the alternative of having an &ldquo;open&rdquo; DRM system is impossible.</p>
+
+<p>Jobs is less than clear here. He writes: &ldquo;There is no theory of protecting content other than keeping secrets. In other words, even if one uses the most sophisticated cryptographic locks to protect the actual music, one must still &lsquo;hide&rsquo; the keys which unlock the music on the user&rsquo;s computer or portable music player. No one has ever implemented a DRM system that does not depend on such secrets for its operation.&rdquo;</p>
+
+<p>Since this is a fairly important point and no one else is explaining what he means, I thought I&rsquo;d give it a try.</p>
+
+<p>DRM works by encrypting songs. Encryption works by performing a mathematical scrambling operation that can only be reversed with the right &ldquo;key&rdquo;. As a very simple example, imagine you have the message &ldquo;hello&rdquo; and the key &ldquo;5&rdquo;. One simple encryption system is to simply move each letter five letters forward (so &ldquo;a&rdquo; becomes &ldquo;f&rdquo;) and you get &ldquo;mjqqt&rdquo;. To decode it, you just need to know the number 5 and move each letter back that far. (This is a very bad encryption system, for a lot of reasons, but it works the same basic way as the good ones.)</p>
+
+<p>The way DRM works, essentially, is that when you buy a song from the iTunes store it&rsquo;s encrypted with a certain secret key (presumably one a lot bigger than the number 5). To play the music, you need the key to decrypt it. But the only software that has the key is iTunes and iTunes will only decrypt it if you&rsquo;re following their rules &mdash; only playing it on 5 separate machines, for example.</p>
+
+<p>For &ldquo;Open DRM&rdquo; to work, Apple would need to give the key to other people who made music players. But as soon as Apple gives the key to someone, they can do whatever they want with the music. If the key gets out on the Internet, anyone can decrypt the songs. DRM only works because the key is secret. Open DRM is an oxymoron.</p>
+
+
+
+
+
+<script type="text/javascript"><!--
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<style type="text/css">#comments_body { display: none}</style>');
+}
+//--></script>
+
+<script type="text/javascript"><!--
+function showComments() {
+  document.getElementById('comments_show').style.display='none';
+  document.getElementById('comments_body').style.display='block';
+  return false;
+}
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<p id="comments_show"><a href="#comments" onclick="return showComments();">Read comments.</a></p>');
+}
+//--></script>
+</div>

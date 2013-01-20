@@ -1,0 +1,42 @@
+<div class="content">
+<h1>In Defense of Anonymity</h1>
+<div>October 24, 2008</div>
+<a href="http://www.aaronsw.com/weblog/tor2web">Original link</a><hr>
+
+<p>In 1787, when America&rsquo;s framers wanted to argue for its Constitution, they published their arguments (the Federalist Papers) anonymously. Whistleblowers have released everything from the Pentagon Papers to the Downing Street Memos. Anonymous speech is a First Amendment right.</p>
+
+<p>And yet, on the supposedly Wild West frontier of the Internet, publishing anonymously is not so easy. Hosting providers require a name and credit card, which they have to hand over to the FBi at the drop of a National Security Letter. Free hosting sites zealously obey takedown requests and require publishers to reveal their identity if they want their stuff put back up (a tactic Scientologists have used). Luckily there are now services like <a href="http://wikileaks.org/">Wikileaks</a>, but they only publish a very narrow range of content.</p>
+
+<p>But, talking with Virgil Griffith and others, I hit upon a new way of allowing for anonymous publishing. The amazing <a href="http://www.torproject.org/">Tor project</a> lets you use the Internet anonymously, by disguising your traffic thru a long series of relays. Less well-known is that it also allows for anonymous publishing, by running the system in reverse. Unfortunately, you need the Tor software to visit anonymously-published sites, but we realized there&rsquo;s no reason this need be so.</p>
+
+<p>So I dusted off some work I&rsquo;d begun years and years ago and build a tor2web proxy. Now anyone with a web browser can visit an anonymous Tor URL like <a href="http://sexy36iscapohm7b.onion/">http://sexy36iscapohm7b.onion/</a> from any Web browser, without any special software, just by going to:</p>
+
+<p><a href="http://sexy36iscapohm7b.tor.theinfo.org/">http://sexy36iscapohm7b.tor.theinfo.org/</a></p>
+
+<p>Which means that publishing an anonymous website is now also fairly easy. (<a href="https://www.torproject.org/docs/tor-hidden-service.html.en">There are instructions on the Tor site</a> &mdash; just replace the <code>.onion</code> when you hand out the URL. If that&rsquo;s too tricky, you could use an existing provider like <a href="http://xqz3u5drneuzhaeo.tor.theinfo.org/">Freedom Hosting</a>.)</p>
+
+<p>tor2web proxies act like any other sort of proxy or router; they just route traffic from  a client to a server and don&rsquo;t get involved themselves, so they can&rsquo;t be held legally responsible for the content that passes thru them. But to prevent against a single point of failure, I&rsquo;m asking others <a href="http://tor.theinfo.org/config">to set up tor2web nodes</a> to distribute the load. The next step, of course, <a href="http://tor.theinfo.org/mirror">is to support mirroring</a> so that people can still find interesting files, even if one hidden server goes down.</p>
+
+<p>Here&rsquo;s to anonymity &mdash; and more tools protecting it.</p>
+
+
+
+
+
+<script type="text/javascript"><!--
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<style type="text/css">#comments_body { display: none}</style>');
+}
+//--></script>
+
+<script type="text/javascript"><!--
+function showComments() {
+  document.getElementById('comments_show').style.display='none';
+  document.getElementById('comments_body').style.display='block';
+  return false;
+}
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<p id="comments_show"><a href="#comments" onclick="return showComments();">Read comments.</a></p>');
+}
+//--></script>
+</div>

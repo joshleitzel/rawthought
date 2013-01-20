@@ -1,0 +1,51 @@
+<div class="content">
+<h1>How Python 3 Should Have Worked</h1>
+<div>March  9, 2012</div>
+<a href="http://www.aaronsw.com/weblog/python3">Original link</a><hr>
+
+<p>As a workaday Python developer, it&rsquo;s hard to shake the feeling that the Python 2 to 3 transition isn&rsquo;t working. I get occasional requests to make my libraries work in 3 but it&rsquo;s far from clear how to and when I try to look it up I find all sorts of conflicting advice, none of which sounds very practical.</p>
+
+<p>Indeed, when you see new 3.x versions rolling off the line and no one using them, it&rsquo;s hard to shake the feeling that Python might die in this transition. How will we ever make it across the chasm?</p>
+
+<p>It seems to me that in all the talk about Python 3000 being a new, radical, blue-sky vision of the future, we neglected the proven methods of getting there. In the Python 2 era, we had a clear method for adding language changes:</p>
+
+<ol>
+<li><p>In Python 2.a, support for <code>from __future__ import new_feature</code> was added so you could use the new feature if you explicitly declared you wanted it.</p></li>
+<li><p>In Python 2.b, support was added by default so you could just use it without the future declaration.</p></li>
+<li><p>In Python 2.c, warnings begun being issued when you tried to use the old way, explaining you needed to change or your code would stop working.</p></li>
+<li><p>In Python 2.d, it actually did stop working.</p></li>
+</ol>
+<p>It seems to me this process worked pretty well. And I don&rsquo;t see why it couldn&rsquo;t work for the Python 3 transition. This would mean mainly just:</p>
+
+<ol>
+<li>A Python 2.x release that added support for <code>from __future__ import python3</code>.</li>
+</ol>
+<p>Putting this at the top of a file would declare it to be a Python3 file and allow the interpreter to parse it accordingly. (I realize behind the scenes this would mean a lot of work to merge tr 2 and 3 interpreters, but honestly it would always have been better to have a unified codebase to maintain.)</p>
+
+<p>Then if I wanted my Python 2 program to use some 3 modules, I just need to make sure those modules have the import line at the top. If I want to do a new release of my module that works on Python 3, I just need to declare that it only works in Python 2.x and higher and release a version that&rsquo;s been run through 2to3 (with the new import statement). If my project is big, I can even port files to 3 one at a time, leaving the rest as 2 until someone gets around to fixing the rest. Most importantly, I can start porting to Puhon 3 without waiting for all my dependencies to do the same, parallelizing what until now has been a rather serial process.</p>
+
+<p>Users know they can safely upgrade to 2.x since it won&rsquo;t break any existing code. Developers know everyone will eventually upgrade to 2.x so they can drop support for earlier versions. But since 2.x supports code that also runs in 3, they can start writing and releasing code that&rsquo;s future-compatible as well. Eventually the vast major code will work in 3 and users can upgrade to 3. (2.x will issue warnings to the remaining stragglers.) Finally, we can drop support for 2.x and all live happily having crossed the bridge together.</p>
+
+<p>This isn&rsquo;t a radical idea. It&rsquo;s how Python upgrades have always worked. And unless we use it again, I don&rsquo;t see how we&rsquo;re ever going to cross this chasm.</p>
+
+
+
+
+
+<script type="text/javascript"><!--
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<style type="text/css">#comments_body { display: none}</style>');
+}
+//--></script>
+
+<script type="text/javascript"><!--
+function showComments() {
+  document.getElementById('comments_show').style.display='none';
+  document.getElementById('comments_body').style.display='block';
+  return false;
+}
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<p id="comments_show"><a href="#comments" onclick="return showComments();">Read comments.</a></p>');
+}
+//--></script>
+</div>

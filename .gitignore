@@ -1,0 +1,4 @@
+.DS_Store
+posts/*/*_latex.md
+*.rb
+combined

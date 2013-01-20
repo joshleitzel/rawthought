@@ -1,0 +1,1267 @@
+A Summary/Explanation of John Maynard Keynes’ *General Theory*
+==============================================================
+
+September 22, 2009
+
+[Original link](http://www.aaronsw.com/weblog/generaltheory)
+
+* * * * *
+
+With the recent economic crisis, there has been much talk of John
+Maynard Keynes and his economics. Keynes, the story goes, figured out
+the causes of the Great Depression and in doing so revolutionized the
+field of economics. Some conservative economists have forgotten or
+ignored his work, but society as a whole remembers his basic discovery:
+you get out of downturns by spending money.
+
+Reading Keynes’ *General Theory of Employment, Money, and Interest* then
+is a sobering experience. For the book is, indeed, truly brilliant, a
+definite work of genius. It’s the best book on the economy I’ve ever
+read; indeed, it’s one of the best books I’ve ever read. Everyone has
+seen bits and pieces of wit quoted from the book, but Keynes weaves them
+into a beautiful tapestry that explains the whole of the modern economy.
+And yet, the book is a necessary now as it was then: economics has not
+learned a single one of his lessons.
+
+This is a depressing thought, especially since Keynes throughout seems
+optimistic that once he’s explained everything so clearly, economics
+will be back on the right track. But politics has triumphed over logic
+and we’ve forgotten all the crucial things he explained.
+
+Perhaps this is why it has a reputation for being a very tough book — so
+difficult that even economists can’t follow it. But I think this is
+entirely due to a difference in philosophies: the *General Theory* was
+the first book on economics I could really understand. And that’s
+because, unlike most economics books, it *makes sense* — the theories it
+proposes comport with the real world, instead of taking place in some
+fantasyland of perfect competition.
+
+Still, the book isn’t exactly a smooth read. Keynes uses some archaic
+language and is trying to communicate some complicated ideas. There’s no
+math, but there’s still a lot to chew on. So I thought I’d try my best
+at an explanation/summary. It’s a long book, so if you’re in a hurry,
+you might prefer [my shorter summary of the fundamental
+ideas](http://aaronsw.com/weblog/keynes).
+
+* * * * *
+
+[The General Theory of Employment, Interest and
+Money](http://www.marxists.org/reference/subject/economics/keynes/general-theory/)
+[full text]
+
+Book I: Introduction
+--------------------
+
+**1:** This chapter cheekily consists of a single paragraph. It says the
+book is an attempt to show that classical economics (basically that
+summarized by Alfred Marshall, including Ricardo, Mill, Edgeworth, and
+Pigou) addresses only a special case of the economy, while this book
+outlines a more general theory.
+
+**2:** The classical theory of employment says the labor market is just
+another market: people get paid what they make and people only work if
+they get paid enough to make it worth it. Since it seemed unlikely that
+society had run out of money-making jobs, it was assumed that
+unemployment was caused either by people not knowing where the jobs were
+(frictional unemployment) or insisting on being paid more than they
+could make (voluntary unemployment).
+
+It seems difficult to explain the high unemployment of the Great
+Depression this way, but economists didn’t see how it could be
+otherwise. So their solution was simple: to end unemployment, people
+just needed to be willing to work for less.
+
+What this amounts to is Say’s Law: supply creates its own demand. If
+there are people around willing to work, jobs will spring up to make use
+of them. If people are unemployed, it must be because they’re refusing
+to take the job.
+
+There are two obvious problems with this. First, people may refuse to
+work for a lower nominal wage when they’ll accept working for a lower
+real (i.e. inflation-adjusted) wage. That is, if management decides to
+pay people \$4 an hour instead of \$5, people might go on strike, but
+nobody ever goes on strike demanding a raise because the cost of milk
+has gone up. (So inflation might actually be a better solution than wage
+cuts.)
+
+Second, if wages go down, then the cost of making things goes down,
+which means that prices go down, which means that in real terms wages
+end up staying about the same.
+
+Keynes has found a crack in the classical theory. The first half of this
+book will be dedicated to prying it open. The second half is filling it
+in.
+
+**3:** When people get money, they spend some of it — but not all of it.
+And businesses choose whether to hire people based on how much they
+expect to sell. But how much they sell is exactly dependent on how much
+people spend.
+
+So it’s how much people spend that determines employment. But this is
+totally consistent with there being unemployment — if people aren’t
+buying, businesses aren’t selling, so they fire people (who then buy
+less).
+
+Indeed, this problem will be worse in richer countries, since the more
+people make the less of it they need to spend and thus less money is
+used to hire people. (The details of how the remainder gets invested has
+to do with interest and will be addressed later.)
+
+Since this seems so basic, Keynes is puzzled at how it’s been so
+ignored:
+
+> The completeness of the [classical] victory is something of a
+> curiosity and a mystery. It must have been due to a complex of
+> suitabilities in the doctrine to the environment into which it was
+> projected. That it reached conclusions quite different from what the
+> ordinary uninstructed person would expect, added, I suppose, to its
+> intellectual prestige. That its teaching, translated into practice,
+> was austere and often unpalatable, lent it virtue. That it was adapted
+> to carry a vast and consistent logical superstructure, gave it beauty.
+> That it could explain much social injustice and apparent cruelty as an
+> inevitable incident in the scheme of progress, and the attempt to
+> change such things as likely on the whole to do more harm than good,
+> commended it to authority. That it afforded a measure of justification
+> to the free activities of the individual capitalist, attracted to it
+> the support of the dominant social force behind authority.
+>
+> But although the doctrine itself has remained unquestioned by orthodox
+> economists up to a late date, its signal failure for purposes of
+> scientific prediction has greatly impaired, in the course of time, the
+> prestige of its practitioners. For professional economists, after
+> Malthus, were apparently unmoved by the lack of correspondence between
+> the results of their theory and the facts of observation;—a
+> discrepancy which the ordinary man has not failed to observe, with the
+> result of his growing unwillingness to accord to economists that
+> measure of respect which he gives to other groups of scientists whose
+> theoretical results are confirmed by observation when they are applied
+> to the facts.
+>
+> The celebrated optimism of traditional economic theory, which has led
+> to economists being looked upon as Candides, who, having left this
+> world for the cultivation of their gardens, teach that all is for the
+> best in the best of all possible worlds provided we will let well
+> alone, is also to be traced, I think, to their having neglected to
+> take account of the drag on prosperity which can be exercised by an
+> insufficiency of effective demand. For there would obviously be a
+> natural tendency towards the optimum employment of resources in a
+> society which was functioning after the manner of the classical
+> postulates. It may well be that the classical theory represents the
+> way in which we should like our economy to behave. But to assume that
+> it actually does so is to assume our difficulties away.
+
+Book II: Definitions and Ideas
+------------------------------
+
+**4:** The next three chapters aren’t so much part of the argument as
+attempts to clear up some basic concepts and objections.
+
+We start by observing it’s impossible to measure things like “net
+output” or “price level” accurately — you’re always trying to compare
+qualitatively different things and run into no end of difficulties.
+
+> To say that net output to-day is greater, but the price-level lower,
+> than ten years ago or one year ago, is a proposition of a similar
+> character to the statement that Queen Victoria was a better queen but
+> not a happier woman than Queen Elizabeth — a proposition not without
+> meaning and not without interest, but unsuitable as material for the
+> differential calculus. Our precision will be a mock precision if we
+> try to use such partly vague and non-quantitative concepts as the
+> basis of a quantitative analysis.
+
+We can’t measure net output, but we can count the number of people
+employed. In general, if more people are working then more stuff is
+getting made, although this obviously isn’t a perfect connection. But
+employment is kind of a more interesting number and it will have to do.
+
+So we’ll use only two types of counts: those of actual currency
+(money-values) and those of people (employment). And while workers are
+obviously not all equivalent the way dollar bills are, we can take an
+hour of unskilled labor as our standard and count people with special
+skills as multiples of an hour of unskilled labor. Thus if someone makes
+twice as much per hour as an unskilled laborer, we’ll count each hour
+they work as two unskilled hours. We’ll call these hours labor-units and
+we’ll call the money that gets paid for them wage-units. Thus the total
+amount spent on wages equals the wage-unit times the number of
+labor-units.
+
+[AS: Obviously this accounting fiction isn’t particularly realistic
+since, in reality, the multiples people get paid change as the wage-unit
+goes up. Let’s say I’m a lawyer who makes \$300 an hour and minimum wage
+is \$5 an hour. If the minimum wage is doubled to \$10 an hour, I’m not
+suddenly going to get paid \$600 an hour, even though my relative
+productivity hasn’t changed. Keynes seems to suggest this can be modeled
+as “a rapid liability to change in the supply of labor;” I guess that’s
+possible.]
+
+And as for some people being better at some jobs than others, we just
+pretend that’s an artifact of the equipment they use. In other words, as
+employment goes up and we run out of skilled truck-builders, we say the
+truck factory is getting less efficient. (If, indeed, there’s nobody
+left who can build the trucks, we say the truck factory’s efficiency has
+gone to zero.)
+
+As problematic as this is, Keynes points out that it’s a lot more
+realistic than the classical theory, which just seems to magically
+assume everyone is paid in proportion to their productivity. By
+subsuming more efficient people with their machinery, Keynes says he
+better deals with the usual case, which is that the increase in
+efficiency goes to their boss (who owns the machines). And when more
+efficient workers actually are paid more, he takes that into account as
+noted above.
+
+**5:** Businesses make production decisions not based on sales or
+anything solidly measurable, but on personal opinions: expectations.
+These can be either short-term expectations (the barrista will be given
+the day off if management doesn’t expect any customers) or long-term
+expectations (Starbucks won’t open up a new story if they expect coffee
+consumption to start going down).
+
+Either way, new expectations don’t always take effect immediately (if
+you just opened a new store and then decide it wasn’t worth it, you
+don’t immediately close it). And the process of adjusting can have some
+odd effects: if you need to quickly ramp up production, you might keep
+hiring until you have more employees than you really need in the
+long-run. You use the extra people to get you up to speed, then you lay
+them off. The result is “a gradual crescendo in the level of employment,
+rising to a peak and then declining to the new long-period level.” This
+can happen even if you don’t expect to sell more things, but just a
+slightly different thing: you “overhire” to get up to speed on the new
+model, but then fire people until you’re back down to your previous
+level.
+
+> An uninterrupted process of transition, such as the above, to a new
+> long-period position can be complicated in detail. But the actual
+> course of events is more complicated still. For the state of
+> expectation is liable to constant change, a new expectation being
+> superimposed long before the previous change has fully worked itself
+> out; so that the economic machine is occupied at any given time with a
+> number of overlapping activities, the existence of which is due to
+> various past states of expectation.
+
+That said, today’s decisions are based on the conditions of today and
+expectations about tomorrow — not on past expectations or the conditions
+of the past. And, in practice, people don’t calculate their expectations
+from scratch each morning. They keep doing what they did yesterday
+unless they have a reason to change. Long-term expectations can’t be
+easily checked, so when they do change, they often change suddenly. Thus
+they can’t even be approximately estimated.
+
+**6:** When you’re producing something, there are a couple of things
+involved. One is the amount of capital and equipment and so on you use
+up, which we’ll call the *user cost*. Another is the amount you pay to
+employees and other companies and so on, the *factor cost*. These two
+combined are the *prime cost*. The *entrepreneur’s income* is the value
+of his output less the prime cost — that’s what he tries to maximize.
+
+Entrepreneurs can also lose capital due to unavoidable events — a market
+crash, an earthquake, the passage of time. These are *supplementary
+costs*. In addition, there are the unavoidable and unforeseen, which
+we’ll call *windfall loss*. We’ll define *net income* as just income
+minus supplementary costs, since people can’t really be blamed for the
+unforeseen events.
+
+The *total income* of the community is just the amount sold minus the
+user cost. And *total consumption* is just all the stuff that isn’t sold
+to other businesses. [AS: I’ve been saying businesses because I find it
+clearer, but Keynes actually says entrepreneurs. I think I also use this
+kind of interchangeably with capitalists. Sorry.] *Saving*, of course,
+is just income minus consumption.
+
+*Investment* is just the amount of current output that isn’t consumed.
+But since saving is just the amount of income that isn’t consumed and
+income is just output (output is always output to someone), savings
+necessarily equals investment.
+
+[AS: This seems to be a little controversial (and, indeed, tends to be a
+bit confusing), but let’s just accept it as a quirky definition, not any
+kind of factual claim.]
+
+**7:** Keynes spends the chapter defending his decision to define
+savings as equal to investment. [AS: I think he only ends up in making
+things more confusing, but maybe I’m missing something.]
+
+Book III: The Propensity to Consume
+-----------------------------------
+
+**8:** We return now to our main argument. Earlier we said people spend
+the money they get, but not all of it. What changes how much they spend?
+Not much, Keynes argues. (Maybe large changes in interest rates, but
+those are rare.)
+
+“The fundamental psychological law,” he says, is that, on average, the
+amount people spend increases as the amount they make increases, but not
+as quickly. (If you make \$50K a year, you might spend \$40K of it. If
+you make \$1M, you might spend \$500K of it. Obviously a lot more in
+absolute terms, but far less proportionately.) And this is especially
+true in the short-term — people’s habits take time to catch up with
+their incomes.
+
+But this means that as national income increases, a smaller proportion
+of it will get spent, so more of it will have to be invested. And when
+national income falls, a larger proportion gets spent as people dip into
+savings and governments go into deficit. This is fortunate, because
+lower consumption also means lower income (when people buy less,
+businesses make less, so they pay you less). If consumption fell at the
+same rate as income, we’d fall into a downward spiral: lower consumption
+would mean lower income, which in turn would mean lower consumption, and
+soon we’d all be out of a job.
+
+“Consumption — to repeat the obvious — is the sole end and object of all
+economic activity.” What are we making things for if not to use them?
+People can either be put to work making things for people to use today
+or making things for people to use tomorrow, but that tomorrow “cannot
+be pushed indefinitely into the future.” After all, an hour of labor
+cannot be “saved” and put into a bank for a rainy day! If people are out
+of work now, the time they’re wasting will never be recovered. [AS: This
+is truly brilliant. It’s hard to convey the excitement I felt when
+reading this.] Saving money for the future is not the same as making
+things for the future — it’s only the latter that’s useful.
+
+But it’s not easy to think of useful things to make for the future.
+Eventually, we’re forced to make things for today. But as our incomes
+increase, we spend less on things today. And there’s our trap: if we
+don’t make things for tomorrow and we don’t make things for today,
+people are forced out of work since there’s nothing for them to make.
+
+Another way to look at it is the more stuff we make for tomorrow, the
+less stuff we need to make tomorrow. And then what do we do? At some
+point we just need to consume more stuff.
+
+People seem to recognize this when it comes to government making stuff.
+‘“What will you do,” it is asked, “when you have built all the houses
+and roads and town halls and electric grids and water supplies and so
+forth which the stationary population of the future can be expected to
+require?”’ But the same logic applies to private investment. What will
+we do when we’ve built all the factories the people of the future can be
+expected to use?
+
+Money can’t survive on its own. If we don’t ever spend it, it becomes
+worthless.
+
+**9:** How does raising interest rates affect consumption? We’ve said it
+doesn’t have much effect on people’s *propensity* to consume, but a
+higher interest rate means it’s more expensive to borrow money, which
+means companies invest less, which means incomes are reduced. (Since
+savings=investment, incomes are reduced such that the amount left over
+for savings equals the lesser amount now invested. [AS: This is the
+first use of that suspicious definition.]) Most people think that as the
+interest rate goes up, spending goes down and saving goes up, but this
+shows that saving and spending both decrease.
+
+> The more virtuous we are, the more determinedly thrifty, the more
+> obstinately orthodox in our national and personal finance, the more
+> our incomes will have to fall when interest rises relatively to the
+> marginal efficiency of capital. Obstinacy can bring only a penalty and
+> no reward. For the result is inevitable.
+>
+> Thus, after all, the actual rates of aggregate saving and spending do
+> not depend on Precaution, Foresight, Calculation, Improvement,
+> Independence, Enterprise, Pride or Avarice. Virtue and vice play no
+> part. It all depends on how far the rate of interest is favourable to
+> investment, after taking account of the marginal efficiency of
+> capital. No, this is an overstatement. If the rate of interest were so
+> governed as to maintain continuous full employment, Virtue would
+> resume her sway; — the rate of capital accumulation would depend on
+> the weakness of the propensity to consume. Thus, once again, the
+> tribute that classical economists pay to her is due to their concealed
+> assumption that the rate of interest always is so governed.
+
+**10:** We’ve established that an increase in investment leads to an
+increase in income. But how much? Even if you hire people for
+investment, the money those people get paid in turn gets spent on
+additional consumption, increasing employment indirectly as well. (Of
+course, this is only true until we hit full employment — then prices
+just inflate.)
+
+There must be an investment multiplier — call it *k* — such that an
+extra \$1 invested leads to \$*k* increase in income. And there must be
+a similar employment multiplier (*k’*) where for each person hired for a
+job, *k’* people get hired in total.
+
+But spending can have negative effects as well. [AS: Keynes apparently
+has government investment — i.e. stimulus — in mind here, although he
+never really comes out and says it.] If the interest rate goes up, that
+will slow investment. If people lose “confidence” because of all the
+spending, they may decide to hold onto their money. And some of the
+money can “leak” out to other countries. But this just weakens the
+multiplier, it doesn’t eliminate it.
+
+Recall that the classical theory said people needed to be paid enough to
+compensate them for their distaste for working. But if you’ve been
+unemployed long enough, you might actually *want* to work. If that’s
+true, even wasting money is a good thing. “Pyramid-building,
+earthquakes, even wars may serve to increase wealth, if the education of
+our statesmen on the principles of the classical economics stands in the
+way of anything better.”
+
+> It is curious how common sense, wriggling for an escape from absurd
+> conclusions, has been apt to reach a preference for wholly “wasteful”
+> forms of loan expenditure rather than for *partly* wasteful forms,
+> which, because they are not *wholly* wasteful, tend to be judged on
+> strict “business” principles. For example, unemployment relief
+> financed by loans is more readily accepted than the financing of
+> improvements at a charge below the current rate of interest; whilst
+> the form of digging holes in the ground known as gold-mining, which
+> not only adds nothing whatever to the real wealth of the world but
+> involves the disutility of labour, is the most acceptable of all
+> solutions.
+
+(Recall that at this time the world was still on the gold standard and
+thus mining for gold was equivalent to printing new money.)
+
+> If the Treasury were to fill old bottles with banknotes, bury them at
+> suitable depths in disused coalmines which are then filled up to the
+> surface with town rubbish, and leave it to private enterprise on
+> well-tried principles of laissez-faire to dig the notes up again (the
+> right to do so being obtained, of course, by tendering for leases of
+> the note-bearing territory), there need be no more unemployment and,
+> with the help of the repercussions, the real income of the community,
+> and its capital wealth also, would probably become a good deal greater
+> than it actually is. It would, indeed, be more sensible to build
+> houses and the like; but if there are political and practical
+> difficulties in the way of this, the above would be better than
+> nothing.
+>
+> The analogy between this expedient and the goldmines of the real world
+> is complete. At periods when gold is available at suitable depths
+> experience shows that the real wealth of the world increases rapidly;
+> and when but little of it is so available, our wealth suffers
+> stagnation or decline. Thus gold-mines are of the greatest value and
+> importance to civilisation. just as wars have been the only form of
+> large-scale loan expenditure which statesmen have thought justifiable,
+> so gold-mining is the only pretext for digging holes in the ground
+> which has recommended itself to bankers as sound finance; and each of
+> these activities has played its part in progress-failing something
+> better. To mention a detail, the tendency in slumps for the price of
+> gold to rise in terms of labour and materials aids eventual recovery,
+> because it increases the depth at which gold-digging pays and lowers
+> the minimum grade of ore which is payable.
+
+(Keynes goes on to contrast gold-mining with building new houses which,
+being actually useful, has the side effect of decreasing the rent of old
+ones.)
+
+> Ancient Egypt was doubly fortunate, and doubtless owed to this its
+> fabled wealth, in that it possessed two activities, namely,
+> pyramid-building as well as the search for the precious metals, the
+> fruits of which, since they could not serve the needs of man by being
+> consumed, did not stale with abundance. The Middle Ages built
+> cathedrals and sang dirges. Two pyramids, two masses for the dead, are
+> twice as good as one; but not so two railways from London to York.
+> Thus **we are so sensible, have schooled ourselves to so close a
+> semblance of prudent financiers, taking careful thought before we add
+> to the “financial” burdens of posterity by building them houses to
+> live in**, that we have no such easy escape from the sufferings of
+> unemployment. We have to accept them as an inevitable result of
+> applying to the conduct of the State the maxims which are best
+> calculated to “enrich” an individual by enabling him to pile up claims
+> to enjoyment which he does not intend to exercise at any definite
+> time. [emphasis added]
+
+Book IV: The Inducement to Invest
+---------------------------------
+
+**11:** Imagine you get a new widget-making machine. There’s the value
+of the widgets you expect [AS: there’s that word again] it to produce,
+less the cost of its inputs and maintenance. Call that the *yield*. Then
+there’s the cost of creating one more new widget-making machine. Call
+that the *supply cost*. The *marginal efficiency of capital* is the
+yield less the supply cost. [AS: Marginal efficiency of capital comes up
+a lot, so we’ll save time by calling it “your expected return.”]
+
+Of course there’s lots of different things you can invest in; we’re
+assuming that you do whatever maximizes your expected return. And
+obviously you’ll keep borrowing money and investing it until your
+expected return reaches the market rate of interest.
+
+It’s through the expected yield that changes in the value of money
+affect output. If people expect inflation, then expected yields go up
+and people invest more. Deflation does the opposite.
+
+(Tyler Cowen, in his critical comments on the *General Theory* is struck
+by a throw-off clause in this chapter: Keynes says that it’s unlikely
+interest rates will go up if people expect inflation, since if people
+expected inflation prices would have gone up already. [He
+writes](http://www.marginalrevolution.com/marginalrevolution/2009/04/keyness-general-theory-chapter-eleven.html): ”This
+simple yet powerful point doesn’t get the attention it ought to. 
+Storage costs for goods and services may eliminate this paradox but
+perhaps not completely.  It is striking how few economists have thought
+this problem through.”)
+
+**12:** As we noted before, capitalists invest if they expect future
+sales to be high. But how do they know what future sales will be? “If we
+speak frankly, we have to admit that our basis of knowledge for
+estimating the yield ten years hence of a railway, a copper mine, a
+textile factory, the goodwill of a patent medicine, an Atlantic liner, a
+building in the City of London amounts to little and sometimes to
+nothing; or even five years hence.”
+
+In olden days, what happened was that rough-riding men of business
+thought taking risks was manly and invested their money as a way of
+life. They got it in their head that they were going to build a
+railroad, and by Jove they did. They didn’t sit down and calculate
+whether they could have made more money buying bonds instead. Bonds are
+for wusses.
+
+But now people invest their money in the stock market, which revises its
+profitability estimates minute-by-minute. “It is as though a farmer,
+having tapped his barometer after breakfast, could decide to remove his
+capital from the farming business between 10 and 11 in the morning and
+reconsider whether he should return to it later in the week.” And since
+much new investment money is raised on the stock market, it’s these
+estimates which influence new investment.
+
+And the stock market depends on “what is, in truth, a *convention*” —
+namely that the current valuation of a company is an accurate assessment
+of its expected yield — that stock prices will only change if there’s
+new evidence suggesting the yield will be different. Thus, even though
+we actually have no clue what the yield might be, we all agree that the
+current stock price is our best guess and instead of worrying about the
+fact we actually have no clue what the “right” stock price is
+whatsoever, we only have to worry about those things which will affect
+it (the stock price).
+
+So stock traders don’t sit down and try to calculate the long-term
+expected yield; they try to guess the short-term change in the stock
+price and trade base on that.
+
+> This is the inevitable result of investment markets organised with a
+> view to so-called “liquidity”. Of the maxims of orthodox finance none,
+> surely, is more anti-social than the fetish of liquidity, the doctrine
+> that it is a positive virtue on the part of investment institutions to
+> concentrate their resources upon the holding of “liquid” securities.
+> It forgets that there is no such thing as liquidity of investment for
+> the community as a whole. The social object of skilled investment
+> should be to defeat the dark forces of time and ignorance which
+> envelop our future. The actual, private object of the most skilled
+> investment to-day is “to beat the gun”, as the Americans so well
+> express it, to outwit the crowd, and to pass the bad, or depreciating,
+> half-crown to the other fellow.
+>
+> This battle of wits to anticipate the basis of conventional valuation
+> a few months hence, rather than the prospective yield of an investment
+> over a long term of years, does not even require gulls amongst the
+> public to feed the maws of the professional; — it can be played by
+> professionals amongst themselves. Nor is it necessary that anyone
+> should keep his simple faith in the conventional basis of valuation
+> having any genuine long-term validity. For it is, so to speak, a game
+> of Snap, of Old Maid, of Musical Chairs — a pastime in which he is
+> victor who says *Snap* neither too soon nor too late, who passes the
+> Old Maid to his neighbour before the game is over, who secures a chair
+> for himself when the music stops. These games can be played with zest
+> and enjoyment, though all the players know that it is the Old Maid
+> which is circulating, or that when the music stops some of the players
+> will find themselves unseated.
+>
+> Or, to change the metaphor slightly, professional investment may be
+> likened to those newspaper competitions in which the competitors have
+> to pick out the six prettiest faces from a hundred photographs, the
+> prize being awarded to the competitor whose choice most nearly
+> corresponds to the average preferences of the competitors as a whole;
+> so that each competitor has to pick, not those faces which he himself
+> finds prettiest, but those which he thinks likeliest to catch the
+> fancy of the other competitors, all of whom are looking at the problem
+> from the same point of view. It is not a case of choosing those which,
+> to the best of one’s judgment, are really the prettiest, nor even
+> those which average opinion genuinely thinks the prettiest. We have
+> reached the third degree where we devote our intelligences to
+> anticipating what average opinion expects the average opinion to be.
+> And there are some, I believe, who practise the fourth, fifth and
+> higher degrees.
+
+You might think that this just means someone who actually does sit down
+and calculate expected yields could make vast profits from all the
+speculators playing Snap. But calculating expected yields is much harder
+than guessing what everyone else will do; there’s no reason to think
+spending the same amount of time doing that is any more profitable.
+
+And getting money for it is much harder — people don’t like it when you
+tell them “Yes, the stocks you bought are worthless *now* but just wait!
+Nothing real has changed, you just need to hold on and see if I’m right
+in the long run.” People don’t like it when their stocks go down. They’d
+much rather invest their money so that its valuation keeps going up and
+up and up.
+
+And even if they were willing to wait, why should they trust you? “For
+it is in the essence of his behaviour that he should be eccentric,
+unconventional and rash in the eyes of average opinion. If he is
+successful, that will only confirm the general belief in his rashness;
+and if in the short run he is unsuccessful, which is very likely, he
+will not receive much mercy. Worldly wisdom teaches that it is better
+for reputation to fail conventionally than to succeed unconventionally.”
+
+The more open our stock markets get, the more speculators predominate,
+and the worse things get for us.
+
+> When the capital development of a country becomes a by-product of the
+> activities of a casino, the job is likely to be ill-done. The measure
+> of success attained by Wall Street, regarded as an institution of
+> which the proper social purpose is to direct new investment into the
+> most profitable channels in terms of future yield, cannot be claimed
+> as one of the outstanding triumphs of laissez-faire capitalism — which
+> is not surprising, if I am right in thinking that the best brains of
+> Wall Street have been in fact directed towards a different object.
+
+A hefty tax on each trade might be the best way to discourage
+speculation and thus improve the functioning of the market. You might
+think (as Keynes once did) that the best solution is to just force
+people to hold on to what they buy, so they have to figure out what it’s
+really worth beforehand, but this will just push people to hold on to
+their money. The only solution would be to force everyone to either to
+buy goods or capital assets with everything they own.
+
+And we return to the problem that many of our economic decisions depend
+on our “spontaneous optimism,” our “animal spirits,” our “urge to action
+rather than inaction,” not “the outcome of a weighted average of
+quantitative benefits multiplied by quantitative probabilities.” This
+means not only that slumps get exaggerated (since they depress animal
+spirits, worsening the slump) but that economic performance depends to a
+large degree on keeping businessmen happy. If electing FDR gets them
+depressed, they might pull back their investments and send the economy
+into a slump. This isn’t a conspiracy, it’s just the natural outcome of
+a system that depends on rich people feeling good. “In estimating the
+prospects of investment, we must have regard, therefore, to the nerves
+and hysteria and even the digestions and reactions to the weather of
+those upon whose spontaneous activity it largely depends.”
+
+As a result, it seems likely that the State, which can calculate these
+things with an eye to the long-term and the social good, will take over
+more and more of the job of organizing long-term investment.
+
+[[Tyler
+Cowen](http://www.marginalrevolution.com/marginalrevolution/2009/04/keyness-general-theory-chapter-12.html):
+“This is the best chapter in the book and one of the most important
+economics essays of all time. … The insights here have yet to be fully
+mined.”]
+
+**13:** We said before that businesses keep investing until their
+expected return reaches the interest rate (so lower interest rates mean
+more investment), but what determines the interest rate?
+
+It’s often said that the interest rate is the price people demand for
+saving money instead of spending it. But this clearly isn’t true —
+people can save money under their mattress and not get any interest. No,
+the interest rate is the “price” people demand for parting with their
+cash.
+
+“— which implies that if the rate of interest were lower, *i.e.* if the
+reward for parting with cash were diminished, the aggregate amount of
+cash which the public would wish to hold would exceed the available
+supply, and that if the rate of interest were raised, there would be a
+surplus of cash which no one would be willing to hold.” And if that’s
+true then the quantity of money is the other factor that determines
+interest rates. Thus the interest rate depends on people’s desire to
+hoard cash — their liquidity preference (L) — and the quantity of money
+(M).
+
+Why is there a liquidity preference? Why don’t people just invest all
+their money? Interest rates never go below zero, after all. “A full
+explanation is complex and must wait for Chapter 15.” But we can see one
+reason now: uncertainty about the expected [AS: there’s that word again]
+rate of interest. If we expect interest rates to go up, we might want to
+hold on to our cash and use it to buy higher-yield bonds later. And
+thus, just as capital investment was driven by stock market speculation,
+interest rates are driven by bond market speculation. Again we have a
+tradeoff between having a market (and thus volatility) or no market (and
+thus overcaution).
+
+There are other reasons people might want to hold cash. If they expect
+to do a cash transaction in the future, they’ll need to sell a bond then
+— but if the interest rate has risen in the meantime, they’ll be selling
+the bond at a loss. And if the interest rate falls, the economy will
+grow and people will need more cash for these sorts of transactions.
+
+OK, so we have the following model: more money reduces the interest rate
+(as long as liquidity preference doesn’t go up faster), lower interest
+rates increase investment (as long as expected return doesn’t fall
+faster), more investment leads to more employment (as long as the
+propensity to consume doesn’t fall faster), and if employment increases
+prices will rise which can increase liquidity preference and thus
+require more money.
+
+The public can’t control the *amount* of hoarding, since that’s
+necessarily equal to the amount of cash. All it can do is change the
+price of hoarding — the interest rate.
+
+**14:** “Certainly the ordinary man — banker, civil servant or
+politician — brought up on the traditional theory, and the trained
+economist also, has carried away with him the idea that whenever an
+individual performs an act of saving he has done something which
+automatically brings down the rate of interest … without the necessity
+for any special intervention or grandmotherly care on the part of the
+monetary authority.”
+
+But we’ve seen they’re quite wrong. Saving doesn’t lower the interest
+rate and thus increase investment — an increase in money does that.
+Instead, saving lowers demand and thus decreases employment. In which
+case, “a decreased readiness to spend will be looked on in quite a
+different light.”
+
+[AS: And so this is the famous paradox of thrift. While each person
+thinks they’ll do better off by saving money instead of spending it, if
+a whole country decides to save their money, they’re all worse off,
+since nobody will have a job.]
+
+[AS: I’m taking a bit from chapter 16 since it seems to really belong
+here:]
+
+“An act of individual saving means — so to speak — a decision not to
+have dinner to-day.” But it is not a promise to have dinner tomorrow —
+it doesn’t replace current demand with future demand; it decreases
+demand altogether. And since future demand is estimated based on present
+demand, it tends to decrease investment as well. Thus decreased
+consumption leads to decreased employment.
+
+It’s difficult to get people to realize that investing money doesn’t
+actually lead to an increase in investments. The problem is that
+capitalists aren’t buying capital per se, they’re buying an expected
+yield. They don’t care how good the machine is at making widgets, what
+matters is whether they can make money selling the widgets. If interest
+rates go up, it no longer becomes possible for them to make money, even
+though the machine remains unchanged.
+
+**15:** The central bank can lower the short-term interest rate through
+open-market operations: printing money and using it to buy short-term
+government debt. But this doesn’t effect the long-term rates, which
+depend on people’s expectations of what the government will do to
+short-term rates. Perhaps the government should start buying and selling
+long-term bonds to address this.
+
+It’s also possible (although unlikely) that no one will believe the
+government can keep rates so low and so they begin hoarding all the new
+cash the government prints. “In this event the monetary authority would
+have lost effective control over the rate of interest.” [AS: This, I
+presume, is the liquidity trap.] “But whilst this limiting case might
+become practically important in future, I know of no example of it
+hitherto. … Moreover, if such a situation were to arise, it would mean
+that the public authority itself could borrow through the banking system
+on an unlimited scale at a nominal rate of interest.” [AS: The US,
+however, is in this situation right now (2009).]
+
+Other traps are hyperinflation (where no one wants to hold onto money)
+and a financial crisis (where no one trusts the banks enough to let go
+of money). And there’s the issue that even at low rates of interest,
+banks still need to trust their borrowers and make enough to pay their
+expenses, which may require them to raise rates.
+
+**16:** OK, so we’re in a liquidity trap. There are all sorts of
+practical problems with lowering interest below zero, so instead what
+happens is that, in *laissez-faire*, employment falls to reach the new
+low levels. The only thing that can save us is if “millionaires find
+their satisfaction in building mighty mansions to contain their bodies
+when alive and pyramids to shelter them after death, or, repenting of
+their sins, erect cathedrals and endow monasteries or foreign missions.”
+That’s no way to run a country.
+
+So the government will print money to keep the interest rate at a level
+corresponding to full employment. Presumably this means that interest
+rates will become very low (although you don’t want them so low that
+nobody’s making things to sell today). But as interest rates get lower,
+it becomes profitable to invest in building things with smaller and
+smaller expected yields.
+
+If this happens, then it seems likely that within a generation expected
+return will reach zero [AS: !!] and everything will reach its marginal
+cost.
+
+This gets rid of the most objectionable features of capitalism — people
+could still become rich by saving money, but there would be nothing left
+to invest it in, so their money wouldn’t ever grow. It would be the end
+of the rentier — the rich person who grows richer by using his wealth to
+exploiting others.
+
+**17:** Let’s step back for a second. Why is money so special? After
+all, a bond is just a promise to get some money in the future. Why
+should it be any different from a futures contract on wheat? We could
+imagine paying the future wheat contracts in terms of wheat, resulting
+in a wheat interest rate. [AS: This sounds pretty ridiculous, I know,
+but give it a minute.]
+
+The big problem is that money is the one thing market processes can’t
+adjust. 1) You can’t just go ahead and make it — it can’t be “grown like
+a crop or manufactured like a motor-car.” 2) You can’t reclaim it from
+use for other purposes — it doesn’t have any. (Land can’t be grown
+either, but if we really needed to we could free some up by moving
+closer together. 3) It’s very easy to store — it doesn’t spoil. Which is
+why the suggestion of making it spoil (by printing money with expiration
+dates, etc.) are on the right track.
+
+Otherwise, our only relief comes from printing more money.
+
+> Thus in the absence of money and in the absence — we must, of course,
+> also suppose — of any other commodity with the assumed characteristics
+> of money, the rates of interest would only reach equilibrium when
+> there is full employment. Unemployment develops, that is to say,
+> because people want the moon; — men cannot be employed when the object
+> of desire (i.e. money) is something which cannot be produced and the
+> demand for which cannot be readily choked off. There is no remedy but
+> to persuade the public that green cheese is practically the same thing
+> and to have a green cheese factory (i.e. a central bank) under public
+> control.
+>
+> It is interesting to notice that the characteristic which has been
+> traditionally supposed to render gold especially suitable for use as
+> the standard of value, namely, its inelasticity of supply, turns out
+> to be precisely the characteristic which is at the bottom of the
+> trouble.
+
+The classical view is that we are kept poor by our impatience — we
+insist on spending money now instead of saving it for later, when it
+will grow into more. But the truth is exactly the opposite: “That the
+world after several millennia of steady individual saving, is so poor as
+it is in accumulated capital-assets, is to be explained, in my opinion,
+neither by the improvident propensities of mankind, nor even by the
+destruction of war, but by the high liquidity-premiums formerly
+attaching to the ownership of land and now attaching to money.”
+
+18: Keynes restates the theory.
+
+Book V: Money-wages and Prices
+------------------------------
+
+19: Now that we have the theory, we can return to the point we started
+with: reducing nominal wages is unhelpful. The only thing that could
+work is a one-time decrease in everyone’s wages to a new level, but that
+a) is never going to happen in a democracy and b) unfairly penalizes
+wage-earners over everyone else. “There are advantages in some degree of
+flexibility in the wages of particular industries so as to expedite
+transfers from those which are relatively declining to those which are
+relatively expanding. But the money-wage level as a whole should be
+maintained as stable as possible, at any rate in the short period.”
+
+20: We’ve said that employment ultimately comes from demand. So why
+should the government promote investment instead of demand? It’s because
+investment comes first. If you give people money to buy more (say)
+iPods, then first all the existing iPods get sold. This raises the
+price, which makes Apple richer but doesn’t help any employees — and
+Apple likes to save its money much more than its employees do.
+Eventually they begin to run out of iPods and start investing in
+additional factories to make more. And then those factories hire people
+to work there, who spend their wages on other things. It works, it’s
+just slow — if you want to get people employed quickly, you’re better
+off starting with building the factories.
+
+OK, so you promote investment, but how much investment? Well, until you
+have full employment obviously.
+
+**21:** Traditional economics is divided between the theory of value
+(perfect competition, supply and demand, and all that good stuff) in the
+main spot and then over to the side has a separate theory of money
+(dealing interest rates and inflation), with no clear connection between
+the two. “We have all of us become used to finding ourselves sometimes
+on the one side of the moon and sometimes on the other, without knowing
+what route or journey connects them, related, apparently, after the
+fashion of our waking and our dreaming lives.” The right split is
+between the theory of the individual industry and the theory of the
+economy as a whole. Or perhaps between the stationary economy and the
+shifting one, for money’s power “flows from its being a link between the
+present and the future.”
+
+So how does printing money affect prices? Well, the naive view is that
+it doesn’t — the additional money gets used to buy more things which
+hires more people — until everyone is hired. Then the money can’t go to
+hire more people so it just goes to bid up the prices of things,
+creating inflation. As I said, that’s the naive view — there are a
+couple complications.
+
+How does money influence demand? Primarily thru the rate of interest,
+which depends on liquidity preferences, marginal efficiencies, and
+investment multipliers. But these all depend on other complicating
+factors.
+
+Marginal prime costs and labor costs increase as industry is forced to
+use more expensive equipment and laborers, resulting in higher prices.
+Some industries hit “bottlenecks” first, causing their prices to rise
+and demand to be funneled into industries that are faster to respond.
+Then as some workers receive better wages other workers will demand it
+and, since business is booming, receive it. Finally, with the additional
+demand equipment and so on will have to be replaced, raising marginal
+costs.
+
+There’s an asymmetry in the system that workers will resist falling
+wages, but not rising ones. But this is good, because otherwise wages
+would fall to zero in any downturn and the entire economy would shut
+down. But the side effect is that “the very long-run course of prices
+has almost always been upward.”
+
+Book VI: Short Notes Suggested by the General Theory
+----------------------------------------------------
+
+**22:** Why are there trade cycles, aka business cycles, aka booms and
+busts?
+
+Let’s start by thinking about the end of the boom. So business is
+booming and everyone’s optimistic — even though costs of production (and
+maybe interest rates) are rising, sales are too, so expected profits are
+looking good. But since no one really knows what they’re doing,
+especially not the speculators, it’s understandable that “when
+disillusion falls upon an over-optimistic and over-bought market, it
+should fall with sudden and even catastrophic force.” Everyone gets
+freaked out that they’re not going to make money anymore and stops
+investing and raises their liquidity preference, raising interest rates
+and lowering investment further.
+
+Because these things go together, they’re sometimes mistaken as the
+cause, but note that it’s the expected return which falls first, then
+interest rates rise. So even lowering interest rates isn’t enough to
+recover from the crash. And “it is not so easy to revive the marginal
+efficiency of capital, determined, as it is, by the uncontrollable and
+disobedient psychology of the business world. It is the return of
+confidence, to speak in ordinary language, which is so insusceptible to
+control in an economy of individualistic capitalism. This is the aspect
+of the slump which bankers and business men have been right in
+emphasising, and which the economists who have put their faith in a
+‘purely monetary’ remedy have underestimated.”
+
+And there are other problems: when the stock market crashes, rich people
+see themselves as less rich and decide to start spending less. (And when
+everyone follows the stock market, like in the US, this applies to
+everyone.) And the fact that people aren’t spending further decreases
+expected returns.
+
+So that’s the bust. What about recovery? Well, recovery can’t come until
+old equipment is used up and has to be replaced and old stocks of goods
+that were produced get sold off and have to be replenished. When
+recovery picks up, it feeds on itself in the opposite way. But you can’t
+jump-start it just by lowering interest rates, since the real problem is
+expected return. Thus the government must step in.
+
+Reading this, you might think the solution is to raise interest rates to
+prevent overinvestment during booms, since lowering them doesn’t get you
+out of slumps. But there’s two kinds of overinvestment: disappointing
+investments, where the investment would have made sense except the
+economy collapsed, and genuine overinvestment, where the investment
+could never have made money. It’s only the second kind that’s an actual
+waste of resources, and the solution to it isn’t raising interest rates
+“which would probably deter some useful investments and might further
+diminish the propensity to consume, but in taking drastic steps, by
+redistributing incomes or otherwise, to stimulate the propensity to
+consume.”
+
+Why does redistributing income work? Think about the dot-com bubble
+where everyone was blowing money on useless fiber-optic cable. If
+venture capitalists are spending all their money on useless cable, the
+solution is to take their money away. Instead, you can give it to poor
+people, who will use it to buy useful things like food and clothing.
+
+What happens isn’t so much excessive investment as misdirected
+investment. Everyone builds houses thinking they’ll all sell for lots
+and lots, then they find they aren’t actually selling for so much and
+the economy collapses. “We reach a condition where there is a shortage
+of houses, but where nevertheless no one can afford to live in the
+houses that there are.”
+
+> Thus the remedy for the boom is not a higher rate of interest but a
+> lower rate of interest! For that may enable the so-called boom to
+> last. The right remedy for the trade cycle is not to be found in
+> abolishing booms and thus keeping us permanently in a semi-slump; but
+> in abolishing slumps and thus keeping us permanently in a quasi-boom.
+> […]
+>
+> Except during the war, I doubt if we have any recent experience of a
+> boom so strong that it led to full employment. … Nor was there
+> over-investment in the sense that the standard and equipment of
+> housing was so high that everyone, assuming full employment, had all
+> he wanted at a rate which would no more than cover the replacement
+> cost, without any allowance for interest, over the life of the house;
+> and that transport, public services and agricultural improvement had
+> been carried to a point where further additions could not reasonably
+> be expected to yield even their replacement cost. Quite the contrary.
+> It would be absurd to assert of the United States in 1929 the
+> existence of over-investment in the strict sense.
+
+In short, increasing interest rates to kill booms “belongs to the
+species of remedy which cures the disease by killing the patient.”
+
+What would the world of the permanent boom look like? It’s conceivable
+that it might lead not just to full employment, but *full investment* —
+a world with so much plenty that you couldn’t expect to make a profit on
+any kind of durable good. “Moreover, this situation might be reached
+comparatively soon—say within twenty-five years or less. I must not be
+taken to deny this, because I assert that a state of full investment in
+the strict sense has never yet occurred, not even momentarily.”
+
+Others say the problem is that the country is so unequal that poor
+people can’t spend enough. The solution, they propose, is redistributing
+money to the poor to promote jobs. They are “undoubtedly in the right
+[at present],” when investment is “unplanned and uncontrolled.” There’s
+no other way to raise employment. If you can’t increase investment, you
+have to increase consumption.
+
+But we *could* increase investment: “the wisest course is to advance on
+both fronts at once.” Not just so that the people we give money to can
+buy the new products investment creates, but so that they have enough
+money to buy even more, and thus spark growth themselves!
+
+**23:** Now that Keynes has outlined his revolutionary theory, it’s time
+to look back at other economists the classical school dismissed.
+
+The classical school — including Keynes in earlier years — grew up
+mocking mercantilism (protectionism) as incoherent and absurd. But maybe
+it makes some sense: Growth depends on the inducements to new
+investment. Investment is either foreign or domestic. Domestic
+investment is encouraged by the interest rate and foreign investment by
+the balance of trade. Thus, if you ignore direct investment by the
+government (as people had), these are the two things to be concerned
+about.
+
+Now in general the interest rate is governed by the quantity of money
+and “in an age in which substantial foreign loans and the outright
+ownership of wealth located abroad are scarcely practicable” (not to
+mention the international gold standard), money equals precious metals
+which equals the balance of trade. (Since running a trade deficit with a
+country means sending them your precious metals instead of your
+exports.) Thus focusing on the balance of trade serves both purposes —
+and, at a time we didn’t know how to control interest rates, was the
+only direct means of controlling them.
+
+Not all protectionism promotes the balance of trade, of course —
+mid-1800s Britain probably would have done best with complete free
+trade. But mercantilists saw the key points sooner than most, calling
+for an increase in money to reduce the interest rate.
+
+But the worst part of the international gold system is the way it sets
+countries against one another. For a country could only keep its
+citizens employed if it had gold, and the only way to get gold was by
+taking it from another country (and thus throwing them out of work).
+“Never in history was there a method devised of such efficacy for
+setting each country’s advantage at variance with its neighbours’!”
+
+> The mercantilists perceived the existence of the problem without being
+> able to push their analysis to the point of solving it. But the
+> classical school ignored the problem, as a consequence of introducing
+> into their premisses conditions which involved its non-existence; with
+> the result of creating a cleavage between the conclusions of economic
+> theory and those of common sense. The extraordinary achievement of the
+> classical theory was to overcome the beliefs of the ‘natural man’ and,
+> at the same time, to be wrong.
+
+Another thing the classical economists long mocked were laws against
+usury. “I was brought up to believe that the attitude of the Medieval
+Church to the rate of interest was inherently absurd, and that the
+subtle discussions aimed at distinguishing the return on money-loans
+from the return to active investment were merely Jesuitical attempts to
+find a practical escape from a foolish theory. But I now read these
+discussions as an honest intellectual effort to keep separate what the
+classical theory has inextricably confused together, namely, the rate of
+interest and the marginal efficiency of capital. For it now seems clear
+that the disquisitions of the schoolmen were directed towards the
+elucidation of a formula which should allow the schedule of the marginal
+efficiency of capital to be high, whilst using rule and custom and the
+moral law to keep down the rate of interest.” After all, “individual
+savings may be absorbed either by investment or by debts, and that there
+is no security that they will find an outlet in the former.” Laws
+against usury help ensure they do.
+
+> It is convenient to mention at this point the strange, unduly
+> neglected prophet Silvio Gesell (1862-1930), whose work contains
+> flashes of deep insight and who only just failed to reach down to the
+> essence of the matter. In the post-war years his devotees bombarded me
+> with copies of his works; yet, owing to certain palpable defects in
+> the argument, I entirely failed to discover their merit. As is often
+> the case with imperfectly analysed intuitions, their significance only
+> became apparent after I had reached my own conclusions in my own way.
+> Meanwhile, like other academic economists, I treated his profoundly
+> original strivings as being no better than those of a crank. Since few
+> of the readers of this book are likely to be well acquainted with the
+> significance of Gesell, I will give to him what would be otherwise a
+> disproportionate space.
+
+Among Gesell’s proposals are the notion of stamped money (money you have
+to pay to get stamped regularly to keep it valid currency) which is a
+way of discouraging people from hoarding. “The idea behind stamped money
+is sound. … But there are many difficulties which Gesell did not face.
+In particular, he was unaware that money was not unique” — if people
+didn’t hoard it, there’s lots of other things they could hoard.
+
+Keynes also discusses Bernard Mandeville’s incredible book, *The Fable
+of the Bees*. This incredible work of economic thought described the
+division of labor and the invisible hand in 1705, a full seventy years
+before Adam Smith. And, Keynes points out, it’s largely about the
+paradox of thrift — centuries before Keynes! It’s basically been written
+out of economic history, in part, no doubt, because it was written in
+the form of a scandalous satirical epic poem. Indeed, it so scandalized
+its readers at the time that it was “convicted as a nuisance by the
+grand jury of Middlesex in 1723, which stands out in the history of the
+moral sciences for its scandalous reputation.”
+
+Finally we come to Major Douglas, who led the unorthodox Social Credit
+movement in the UK:
+
+> Major Douglas is entitled to claim, as against some of his orthodox
+> adversaries, that he at least has not been wholly oblivious of the
+> outstanding problem of our economic system. Yet he has scarcely
+> established an equal claim to rank — a private, perhaps, but not a
+> major in the brave army of heretics — with Mandeville, Malthus, Gesell
+> and Hobson, who, following their intuitions, have preferred to see the
+> truth obscurely and imperfectly rather than to maintain error, reached
+> indeed with clearness and consistency and by easy logic, but on
+> hypotheses inappropriate to the facts.
+
+**24:** The two great economic problems are unemployment and inequality.
+We have addressed the first, but what are its implications of the
+second? Inequality has been addressed somewhat by government
+redistribution, but some are hesitant to go further because they believe
+that growth is promoted by savings and so taking away the savings of the
+rich will retard growth. We have seen that it’s quite the opposite —
+that redistribution, by increasing effective demand, *promotes* growth.
+“One of the chief social justifications of great inequality of wealth
+is, therefore, removed.”
+
+That said, one wouldn’t want to get rid of money altogether:
+
+> [D]angerous human proclivities can be canalised into comparatively
+> harmless channels by the existence of opportunities for money-making
+> and private wealth, which, if they cannot be satisfied in this way,
+> may find their outlet in cruelty, the reckless pursuit of personal
+> power and authority, and other forms of self-aggrandisement. It is
+> better that a man should tyrannise over his bank balance than over his
+> fellow-citizens; and whilst the former is sometimes denounced as being
+> but a means to the latter, sometimes at least it is an alternative.
+
+Let us imagine these policies are implemented. The government lowers
+interest rates so that there’s full employment. Expected return would
+then probably fall steadily keep it there, unless there’s an increase in
+the propensity to consume (including by the State).
+
+At this point, expected return might be just enough to cover the costs
+of production, plus a little for risk and skill — just like other goods.
+
+> Now, though this state of affairs would be quite compatible with some
+> measure of individualism, yet it would mean the euthanasia of the
+> rentier, and, consequently, the euthanasia of the cumulative
+> oppressive power of the capitalist to exploit the scarcity-value of
+> capital. Interest today rewards no genuine sacrifice, any more than
+> does the rent of land. The owner of capital can obtain interest
+> because capital is scarce, just as the owner of land can obtain rent
+> because land is scarce. But whilst there may be intrinsic reasons for
+> the scarcity of land, there are no intrinsic reasons for the scarcity
+> of capital. An intrinsic reason for such scarcity, in the sense of a
+> genuine sacrifice which could only be called forth by the offer of a
+> reward in the shape of interest, would not exist, in the long run,
+> except in the event of the individual propensity to consume proving to
+> be of such a character that net saving in conditions of full
+> employment comes to an end before capital has become sufficiently
+> abundant. But even so, it will still be possible for communal saving
+> through the agency of the State to be maintained at a level which will
+> allow the growth of capital up to the point where it ceases to be
+> scarce.
+>
+> I see, therefore, the rentier aspect of capitalism as a transitional
+> phase which will disappear when it has done its work. And with the
+> disappearance of its rentier aspect much else in it besides will
+> suffer a sea-change. It will be, moreover, a great advantage of the
+> order of events which I am advocating, that the euthanasia of the
+> rentier, of the functionless investor, will be nothing sudden, merely
+> a gradual but prolonged continuance of what we have seen recently in
+> Great Britain, and will need no revolution.
+>
+> Thus we might aim in practice (there being nothing in this which is
+> unattainable) at an increase in the volume of capital until it ceases
+> to be scarce, so that the functionless investor will no longer receive
+> a bonus; and at a scheme of direct taxation which allows the
+> intelligence and determination and executive skill of the financier,
+> the entrepreneur *et hoc genus omen* (who are certainly so fond of
+> their craft that their labour could be obtained much cheaper than at
+> present), to be harnessed to the service of the community on
+> reasonable terms of reward.
+>
+> At the same time we must recognise that only experience can show how
+> far the common will, embodied in the policy of the State, ought to be
+> directed to increasing and supplementing the inducement to invest; and
+> how far it is safe to stimulate the average propensity to consume,
+> without foregoing our aim of depriving capital of its scarcity-value
+> within one or two generations. It may turn out that the propensity to
+> consume will be so easily strengthened by the effects of a falling
+> rate of interest, that full employment can be reached with a rate of
+> accumulation little greater than at present. In this event a scheme
+> for the higher taxation of large incomes and inheritances might be
+> open to the objection that it would lead to full employment with a
+> rate of accumulation which was reduced considerably below the current
+> level. I must not be supposed to deny the possibility, or even the
+> probability, of this outcome. For in such matters it is rash to
+> predict how the average man will react to a changed environment. If,
+> however, it should prove easy to secure an approximation to full
+> employment with a rate of accumulation not much greater than at
+> present, an outstanding problem will at least have been solved. And it
+> would remain for separate decision on what scale and by what means it
+> is right and reasonable to call on the living generation to restrict
+> their consumption, so as to establish in course of time, a state of
+> full investment for their successors.
+
+Now the State will still have to guide things; it seems unlikely that
+just controlling interest rates will be enough to ensure this utopian
+state of affairs. Instead, it might turn out “a somewhat comprehensive
+socialisation of investment will prove the only means of securing an
+approximation to full employment; though this need not exclude all
+manner of compromises and of devices by which public authority will
+co-operate with private initiative.” Still, this is a comparatively
+conservative claim:
+
+> But beyond this no obvious case is made out for a system of State
+> Socialism which would embrace most of the economic life of the
+> community. It is not the ownership of the instruments of production
+> which it is important for the State to assume. If the State is able to
+> determine the aggregate amount of resources devoted to augmenting the
+> instruments and the basic rate of reward to those who own them, it
+> will have accomplished all that is necessary. Moreover, the necessary
+> measures of socialisation can be introduced gradually and without a
+> break in the general traditions of society. […]
+>
+> Whilst, therefore, the enlargement of the functions of government,
+> involved in the task of adjusting to one another the propensity to
+> consume and the inducement to invest, would seem to a
+> nineteenth-century publicist or to a contemporary American financier
+> to be a terrific encroachment on individualism, I defend it, on the
+> contrary, both as the only practicable means of avoiding the
+> destruction of existing economic forms in their entirety and as the
+> condition of the successful functioning of individual initiative.
+>
+> For if effective demand is deficient, not only is the public scandal
+> of wasted resources intolerable, but the individual enterpriser who
+> seeks to bring these resources into action is operating with the odds
+> loaded against him. The game of hazard which he plays is furnished
+> with many zeros, so that the players as a whole will lose if they have
+> the energy and hope to deal all the cards. Hitherto the increment of
+> the world’s wealth has fallen short of the aggregate of positive
+> individual savings; and the difference has been made up by the losses
+> of those whose courage and initiative have not been supplemented by
+> exceptional skill or unusual good fortune. But if effective demand is
+> adequate, average skill and average good fortune will be enough.
+
+And, if our theory does work and we end up with full employment, then we
+return to the world of the classical economic theory, whose only flaw
+was assuming that full employment was the only possible state of
+affairs. “It is in determining the volume, not the direction, of actual
+employment that the existing system has broken down.”
+
+> Is the fulfilment of these ideas a visionary hope? Have they
+> insufficient roots in the motives which govern the evolution of
+> political society? Are the interests which they will thwart stronger
+> and more obvious than those which they will serve?
+>
+> I do not attempt an answer in this place. It would need a volume of a
+> different character from this one to indicate even in outline the
+> practical measures in which they might be gradually clothed. But if
+> the ideas are correct — an hypothesis on which the author himself must
+> necessarily base what he writes — it would be a mistake, I predict, to
+> dispute their potency over a period of time. At the present moment
+> people are unusually expectant of a more fundamental diagnosis; more
+> particularly ready to receive it; eager to try it out, if it should be
+> even plausible. But apart from this contemporary mood, the ideas of
+> economists and political philosophers, both when they are right and
+> when they are wrong, are more powerful than is commonly understood.
+> Indeed the world is ruled by little else. Practical men, who believe
+> themselves to be quite exempt from any intellectual influences, are
+> usually the slaves of some defunct economist. Madmen in authority, who
+> hear voices in the air, are distilling their frenzy from some academic
+> scribbler of a few years back. I am sure that the power of vested
+> interests is vastly exaggerated compared with the gradual encroachment
+> of ideas. Not, indeed, immediately, but after a certain interval; for
+> in the field of economic and political philosophy there are not many
+> who are influenced by new theories after they are twenty-five or
+> thirty years of age, so that the ideas which civil servants and
+> politicians and even agitators apply to current events are not likely
+> to be the newest. But, soon or late, it is ideas, not vested
+> interests, which are dangerous for good or evil.

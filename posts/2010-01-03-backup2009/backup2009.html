@@ -1,0 +1,40 @@
+<div class="content">
+<h1>A Backup Solution?</h1>
+<div>January  3, 2010</div>
+<a href="http://www.aaronsw.com/weblog/backup2009">Original link</a><hr>
+
+<p>For years I&rsquo;ve wanted a backup solution that just works. (<a href="http://www.aaronsw.com/weblog/lazybackup">Here&rsquo;s a blog post from 2006 asking for it.</a>) The recent Coding Horror disaster got me thinking that this year I should take another look.</p>
+
+<p>There have been some great strides in backup software in recent years. For Unix, there&rsquo;s rdiff-backup , duplicity, brackup, and tarsnap. For Macs, there&rsquo;s Time Machine (which doesn&rsquo;t support remote backups), BackBlaze, Mozy, and Carbonite (which don&rsquo;t do full-disk backups). None of them seem to just work.</p>
+
+<p>It seems amazing to me how bandwidth and disk drives have gotten huge in recent years, while backup software has gotten more conservative and efficiency-obsessed. If you want to make regular copies of your entire disk, the best program is still old-fashioned <code>dump</code>, a program written in the era of tape drives. All the state-of-the-art stuff is designed to run on particular folders.</p>
+
+<p>But then I found <a href="http://b9.crashplan.com/consumer/index.html">CrashPlan</a>. For $100, you can back up all your machines to it as often as you like. The installation process is super-simple, it runs in the background without killing your net connection (BackBlaze would always slow my machine and my network down), and it works on Macs as well as Unix. It even makes it easy to control remote headless servers &mdash; just open an SSH tunnel to the machine you want to configure and you can use your local client to configure the remote machine.</p>
+
+<p>The only trouble is that it <a href="https://crashplan.zendesk.com/forums/30387/entries/29297">doesn&rsquo;t support bare-metal restores</a> or <a href="http://support.crashplan.com/doku.php/articles/supported_metadata">xattr</a>. I don&rsquo;t understand why and hope that&rsquo;ll be fixed.</p>
+
+<p>Does anyone know of a better solution?</p>
+
+<p><strong>Update:</strong> Everyone hates Mozy. <a href="https://spideroak.com/">SpiderOak</a> seems interesting, but is even less designed for full-disk backup.</p>
+
+
+
+
+
+<script type="text/javascript"><!--
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<style type="text/css">#comments_body { display: none}</style>');
+}
+//--></script>
+
+<script type="text/javascript"><!--
+function showComments() {
+  document.getElementById('comments_show').style.display='none';
+  document.getElementById('comments_body').style.display='block';
+  return false;
+}
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<p id="comments_show"><a href="#comments" onclick="return showComments();">Read comments.</a></p>');
+}
+//--></script>
+</div>

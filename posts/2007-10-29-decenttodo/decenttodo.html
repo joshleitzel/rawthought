@@ -1,0 +1,68 @@
+<div class="content">
+<h1>How to Build Decent Productivity Software</h1>
+<div>October 29, 2007</div>
+<a href="http://www.aaronsw.com/weblog/decenttodo">Original link</a><hr>
+
+<p>These days it seems like everyone is making productivity software &mdash; software that helps you manage all the the things you need to get done. Yet all of them seem to be missing some basic pieces. A productivity application has two jobs: remembering everything you need to do and getting you to do it. The second is necessary because without it, you&rsquo;ll put all your tasks in the application and then never do them. The first is necessary because otherwise the application will have no idea what to tell you to do.</p>
+
+<p>I think the ideal piece of productivity software would be like having a great assistant or a campaign manager: someone who intimately knows all aspects of your life&rsquo;s todo lists and schedules and wasn&rsquo;t afraid of saying you had to wrap this meeting up because you promised the kids you&rsquo;d be home at 5 to take them to the game. Judged against this standard, present productivity software is woefully lacking &mdash; it&rsquo;s usually not much more than a glorified todo list.</p>
+
+<p><strong>Remembering everything:</strong> Most software lets you store the classical todo list items: call Jon back, finish report, buy toy for kids.<sup id="fnref:fn1"><a href="#fn:fn1" rel="footnote">1</a></sup> Some systems even branch out into vaguer life goal stuff: spend time with family, become accomplished novelist, learn more about history. But that&rsquo;s about it.</p>
+
+<p>But most people also have tasks in their project management software (fix this bug), various calendar-style events (lunch with Jon, catch plane), and a vast quantity of email (answer Jon&rsquo;s question, fix the frobnitz and report back to Bob, etc.) Yet no one seems to have dared to integrate their software with a calendar, email client, or even bug tracking software.</p>
+
+<p>Since it&rsquo;s unlikely anyone writing productivity software is also going to write an email client, a calendar, and a bug tracker (although it would be nice), I&rsquo;ll settle for having support for plugins that import tasks and events from these various other apps. It has to be very simple to upload your whole life to your todo app.</p>
+
+<p><strong>Getting you to do stuff:</strong> The best I&rsquo;ve seen is some kind of filtering in which the software lets you only look at tasks that can be done in 5 minutes while on a train. But if you&rsquo;re the kind of person who&rsquo;s dysfunctional enough to need productivity software, simply having a big list of tasks probably isn&rsquo;t going to help you much. (I can write a big list of tasks in Notepad.) Instead, the software should be proactive about getting you to do stuff, like telling you to quit goofing off and get ready for that big deadline you have tomorrow or to hurry up and answer that urgent email from yesterday.</p>
+
+<p>How does it do this? First, it needs to know what&rsquo;s important. After you import your life it should let you walk through and triage it all: look at each one and decide how important it is (or whether it&rsquo;s already done). I&rsquo;ve written a program to do this just for my mail and it&rsquo;s been invaluable &mdash; within a couple hours a morass of three thousand messages turned into a neatly labeled set of piles ordered by importance. Similarly, it can turn a tall pile of assorted todos into the beginnings of an action plan.</p>
+
+<p>Then comes the crucial part: it tells you what to do. I&rsquo;m not demanding anything fancy, like a robot dog that follows you around and barks orders (although that might be nice). I&rsquo;m just saying provide a little pop-up window with a suggested next task. Psychologically, it&rsquo;s easy to ignore a long todo list. In fact, long todo lists are depressing and make you want to look away. But a simple suggestion about one particular thing to do next is much harder to dismiss.</p>
+
+<p>Of course, the suggestions have to be good. The software would generate them by taking into account everything it knows about your tasks and calendar today. And if you still don&rsquo;t like the suggestion, you tell the program you can&rsquo;t do it because&hellip;:</p>
+
+<ul>
+<li>that&rsquo;ll take too long (adds a time estimate to the task; used to make sure the task can be done before the next event on the calendar)</li>
+<li>that&rsquo;s not very important (adds a priority to the task; used to sort by importance)</li>
+<li>I can&rsquo;t do that here (adds a physical context to the task, like being in a certain place; used to find tasks you can do in your current context)</li>
+<li>I can&rsquo;t do that yet (adds a dependency; dependencies can then be checked occasionally to see if they&rsquo;ve been finished yet)</li>
+<li>I already did that (marks as done)</li>
+<li>that&rsquo;s not due for a while (adds a due date; used to make sure things get done before their deadlines)</li>
+</ul>
+<p>and so on. Ideally, the system would be well-informed and smart enough that you could trust its predictions. But even if it wasn&rsquo;t perfect, just suggesting tasks in order of priority would likely be a vast improvement over the whimsical system used by most people in need of productivity software. It&rsquo;s hard to imagine such a tool wouldn&rsquo;t be a godsend.</p>
+
+<p><em>Aaron Swartz has too large of a todo list to write this program by himself, but if you&rsquo;re interested in working on it he&rsquo;d love to help. Email him at <a href="mailto:me@aaronsw.com">me@aaronsw.com</a></em></p>
+
+<p>(<strong>Postscript:</strong> Dearest readers, telling me that your favorite glorified todo list has an API that allows me write all the importers I want as well as write the task suggestion system I described is not an answer. My point is that todo lists should <em>have</em> these features; not that they should allow me to write them.)</p>
+
+<div class="footnotes">
+<hr>
+<ol>
+<li id="fn:fn1">
+<p>Most of the classical productivity guides are aimed at middle managers whose lives, as far as we can tell from the examples, consist of calling people, finishing reports, and placating their families. Who am I to break with tradition?&nbsp;<a href="#fnref:fn1" rev="footnote">&#8617;</a></p>
+</li>
+
+</ol>
+</div>
+
+
+
+
+
+<script type="text/javascript"><!--
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<style type="text/css">#comments_body { display: none}</style>');
+}
+//--></script>
+
+<script type="text/javascript"><!--
+function showComments() {
+  document.getElementById('comments_show').style.display='none';
+  document.getElementById('comments_body').style.display='block';
+  return false;
+}
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<p id="comments_show"><a href="#comments" onclick="return showComments();">Read comments.</a></p>');
+}
+//--></script>
+</div>

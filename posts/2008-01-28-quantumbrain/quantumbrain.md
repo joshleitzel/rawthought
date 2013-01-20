@@ -1,0 +1,67 @@
+A Very Speculative Theory of Free Will
+======================================
+
+*Previously:* [How Quantum Mechanics is Compatible with Free
+Will](http://www.aaronsw.com/weblog/quantumwill)
+
+*Attention conservation notice:* I am well aware that this post will get
+me called all sorts of silly names and insults (Penrosian apparently the
+worst among them). For once, I am not going to respond. I just think the
+theory ought to be published and if you are not inclined to believe it,
+then feel free to ignore it.
+
+The big mystery of the mind is reconciling two things: what we know
+about the physical structures of the brain and what we experience from
+day to day as conscious people. The first tells us that our brain is
+made up of a series of interconnected neurons which fire in response to
+certain inputs. The second tells us that people have subjective unified
+experiences and at least the appearance of free will. It seems hard to
+explain how the first can lead to the second, although they’re obviously
+connected somehow.
+
+So, for example, if we’re looking at certain visual illusions, we can
+choose to see them one way or to see them another way. And obviously
+this choice has some impact on the rest of the brain, especially the
+part that processes vision. But nobody’s been able to find the place in
+the brain from which such choices originate.
+
+I don’t know enough about the subject to vouch for it, but [this
+article](http://www.quantummechanicsandreality.com/Primer/iia8_brain.htm)
+claims that neurons are small enough that we could see quantum effects
+in their high-level behavior:
+
+> The juncture between two neurons is called the synapse. Each of the
+> perhaps 100 billion neurons in the brain is connected to about 1,000
+> other neurons. At the synapse, a firing neuron either passes a
+> neurochemical signal to the next neuron, or it does not pass a signal,
+> with the passing or not passing depending on the complex
+> neurochemistry of the synapse. If, within a millisecond, a certain
+> number of signals are passed on to a neuron, then that neuron will
+> fire. Otherwise it will not fire. Thus what happens at the various
+> synapses—signal passed on or not passed on—is the sole determinant of
+> the firing pattern of the neurons in the brain. The synapses are the
+> control points for our flow of thoughts.
+>
+> The synaptic gap, the gap between one neuron and the next, is quite
+> small, 3.5 nanometers, which is about 35 (hydrogen) atoms. The sizes
+> of the adjacent parts of the synapse, where much of the neurochemistry
+> goes on, are also small, on the order of 3,500 atoms wide. Now one of
+> the peculiar effects of quantum mechanics is that if the volume where
+> an atom might be located (the place where the wave function is
+> non-zero) is initially small, it will spread out in time. One can use
+> Heisenberg’s uncertainty principle to show that a calcium ion, for
+> example, will spread out to the size of the synapses (not just the
+> synaptic gap) in about .1 milliseconds (see 8 below). Neural processes
+> in the brain occur on a time scale of a millisecond, ten times slower
+> than the spread of a calcium ion over the whole synapse.
+
+So here’s the proposal: a series of entangled quantum particles at the
+synaptic level allow for coordinated firing patterns which occur in
+response to choices by our conscious free will. Just as my previous post
+reconciled free will with statistical randomness, this would seem to
+reconcile free will with the neuroanatomy.
+
+It still seems incredible that there is some high-level coordinated
+process with its fingers in the quantum effects of our synapses. But we
+know something incredible is going on because we have subjective
+experience. So this doesn’t seem like much of a stretch to me.
