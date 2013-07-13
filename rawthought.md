@@ -611,6 +611,147 @@ and going to dinner with some of Apple’s Safari team…)
 Now I just need to finish packing.
 
 
+Stanford/SFP: Leaving on a Jet Plane
+====================================
+
+June 11, 2005
+
+[Original link](http://www.aaronsw.com/weblog/stanford2sfp)
+
+* * * * *
+
+It’s always odd how extraordinary things are just like their ordinary
+counterparts. Stanford is just like a school, only wealthier. Leaving
+home is just like going on vacation, only longer. And packing your dorm
+is just like packing up your hotel room, only bigger.
+
+Tonight the campus is so desolate: people missing, cars missing. Even
+the room is beginning to seem empty, although the hallways are filled
+with crud. I’m the last one left in our room of four people. With all my
+schoolwork done, it’s surprisingly lonely. I wander down to talk to
+other people packing.
+
+* * * * *
+
+*Goodbye Caroline (set of 3)*
+
+[image links broken]
+
+As I wait outside with my bags the next morning, kids slowly filer out
+and sit on the top of the picnic table, just like the cool kids do in
+television shows to indicate coolness. I sit away in the shade on the
+chair. Eventually my ride shows up and the group of kids waves goodbye.
+I wonder how many of them I’ll see again.
+
+* * * * *
+
+Bags are heavy. It’s a good thing I didn’t take public transportation —
+there’s no way I would have made it. Not to mention the fact that when I
+get here a voice over the speakers says that public transportation is
+currently out. I wait in line for a long time at the curb until I get to
+the front and they tell me they can’t check my bags anymore. Then I
+spend a while running around looking for a cart machine that will take
+my money, then I take the cart over to another long line and pay a lot
+of money to take my bags on the plane. Good thing I’m early. I still
+have two heavy bags to carry all the way to the terminal, unfortunately.
+Somehow I survive without any major damage.
+
+On the plane I read a long book which inspires me to write a long
+memoir.
+
+I then carry the heavy bags down to the baggage claim, buy another cart,
+grab the bags of the conveyor belt, take them to the cab stand and ask
+the cab driver to go to MIT. He doesn’t know where Simmons Hall is so he
+tells me to stop him when we get close. I scan the windows, seeing
+nothing but empty fields and abandoned warehouses when BOOM! this huge
+building pops up, much larger than it seems in pictures. “That’s it!” I
+say and the cabdriver backs up. He places my stuff on the curb as I pay
+him and speeds off.
+
+Inside an alienated student mans the desk, her lowered eyes
+not-so-subtly implying that she really doesn’t want to talk to me. I
+tell her I’m checking in. ‘Oh,’ she says in a dry monotone, ‘you’re that
+guy. I thought you’d be older.’ She gives me a key and asks me to fill
+out a confusing form, continually finding spots I haven’t filled out.
+‘No, fill out everything — you left the box that says “\# of children”
+blank.’ While I’m doing this some police come in and ask how to get to
+tower B, she points them to the elevator at the end of the hall.
+
+Finally I finish filling out the form and ask her how to get to my room.
+She looks it up and concludes it’s in tower B, take the elevator at the
+end of the hall. I decide to go on an exploratory mission with just one
+bag to find my room before carrying everything down. It’s a good thing I
+did since the elevator is surrounded by three cops. In front of them,
+the elevator door is open revealing a whole group of kids in an elevator
+stuck halfway between floors. The kids seem resigned to their situation
+and are now sitting on the floor playing games. ‘I don’t trust these
+f—-ing elevators,’ says one cop. ‘No way, me neither,’ answers another.
+I decide to back away to give them some space.
+
+After a short rest I decide to try the other elevator and it turns out
+it’s much closer, so I laboriously drag my bags up and thru using it. On
+the way to my room there is a picture window onto a deck with some sort
+of yin-yang sculpture. The kids have filled it up with water and place
+rubber duckies into it. Unfortunately, getting onto the deck requires a
+keycard, which I don’t have.
+
+* * * * *
+
+Simmons Hall is indeed pretty, if a little warm. (Apparently the
+computer lab is the only air conditioned room.) Meeting rooms of various
+sorts are scattered throughout the place, each fitted with a whiteboard
+and prints from Josef Albers’s *Interaction of Color*.
+
+Oddly, each print is also accompanied by a note with a number to call
+with “questions and concerns” about the artwork. (I imagine the MIT
+student who calls and says “I have a concern about print \#49. Albers
+clearly intended to use a 3,4,5 sequence but on the last square here
+it’s printed as 3,4,6. Do you think you could send someone to take care
+of this?”)
+
+There are also a series of kitchens and TV rooms, each differently
+shaped and furnished. Each TV room has a DVD player, VCR, and stairs up
+to the next floor where, in a different location, there is another room
+with a different shape and furnishings.
+
+The floor plans of the building are printed by the elevator (for use in
+case of fire, I guess) and they’re rather entertaining. They look just
+like normal floor plans — squares and boxes with symbolic codes — except
+it’s apparently been hit by a meteor, since there’s a big
+squiggly-shaped hole right in the middle where the TV room is.
+
+In one of the meeting rooms I found [a large
+box](http://www.aaronsw.com/photos/sfp/IMG_2810.JPG/view) someone had
+built out of wood, the inside covered in foam padding. Inside was a
+strange-looking device, a switch, and a bunch of wires. Outside was a
+light (currently off) that said “DIRECT FROM THE FUTURE”. I tried
+figuring out what the box was, with little success. The whole thing felt
+like a puzzle out of Myst or something.
+
+The one thing I couldn’t find, however, was a bathroom on my floor. I
+found a whole series of locked rooms with interesting labels —
+Counseling, Student Government, Mail, Music, and my personal favorite
+(if only because it was the one with no lock) Meditation — but no
+bathroom. Finally I tried to open the unmarked door next to my room and
+aha! a bathroom. Nice location, too. The only problem is it doesn’t have
+lock.
+
+* * * * *
+
+The next day as I walk outside I’m hit in the face by Cambridge’s
+dreadful weather. Unbearably snowy in the winter, it’s unbearably hot
+and muggy in the summer. I guess it wasn’t just because I was carrying
+bags yesterday that I was sweating. I walk the superblock to the student
+center where I get some food and buy a fan for my room. It makes things
+a little better but it’s still pretty terrible.
+
+Anyone in Cambridge got an air conditioner I could borrow? Maybe I
+should find someplace to buy one. **UPDATE:** The good folks at Y
+Combinator brought me over an air conditioner which we jammed into one
+of the windows and now it’s awesome. *Thanks!*
+
+Finally, if anyone nearby wants to visit, just drop me an email.
+
 SFP: First Contact
 ==================
 
@@ -895,6 +1036,798 @@ So the next time you mention one to someone and they reply “yes, but we
 did with a good intent” explain to them that’s no defense; the only
 people who don’t are characters in comic books.
 
+
+Of Washington And Worcester
+===========================
+
+July 3, 2005
+
+[Original link](http://www.aaronsw.com/weblog/downhillbattle)
+
+* * * * *
+
+Stanford, California
+
+It’s June 19. I’m still in school, in fact, I’m just dashing out of
+class into the cab waiting outside. The Ford Foundation is paying for a
+trip to Washington, DC for a meeting about Free Culture. I was initially
+hesitant about going to the meeting and in fact getting there has been
+quite a bit of a hassle — here I am at the airport and they claim they
+don’t have my tickets — but I eventually manage to dash onto the plane
+just in time to get to DC late that night, where I take a shuttle to my
+hotel.
+
+The next day I head out to get lunch and visit my friend Derek Willis
+who has very kindly offered to give me a tour of his employer, the
+*Washington Post*. But as I head out the door I hear a voice call from
+behind me. “Aaron?” it asks. I spin around and there on the couch,
+gleaming like a diamond among the hotel’s tacky chandeliers and mirrors,
+sit three young kids — two guys and a girl — wearing stylish-yet-indie
+clothes and holding skateboards. ‘Hey,’ says the voice, ‘it’s Holmes.
+From Downhill Battle. These are my partners, Nick and Tiffiniy.’
+
+* * * * *
+
+Cambridge, Massachusetts — Present Day
+
+“so, are you coming here? i really hope you will,” writes Tiffiniy. “ok,
+i’ll come — let me check the trains,” I write back. Downhill Battle is
+headquartered in nearby Worcester, an hour away on the train. I agree to
+come by the next day, when I wake up early and pack a book and an
+umbrella and head west to Worcester.
+
+I arrive at the elegant train station and head downstairs and through a
+ballroom being set up with tables. Outside I look around through the sea
+of cabs and cars and once again hear a voice call my name. This time
+it’s Nick and I dodge across the street to meet him. ‘Hey!’ he says,
+embracing me in a hug. ‘Welcome to Worcester.’
+
+* * * * *
+
+Washington, D.C.
+
+The three of them, as it turns out, are just checking in. Having the
+keys made is taking forever, for some reason. I wait with them and
+follow them up to their room where they invite me to lunch. We look for
+places to eat, eventually deciding on a Chinese place down the street.
+Outside, it’s raining slightly and none of us have umbrellas. “Let’s
+hoof it!” shouts Holmes as he takes off running. We all follow in close
+pursuit: four young kids, running like maniacs in the rain.
+
+* * * * *
+
+Worcester, Massachusetts
+
+‘So this is Worcester,’ Nick says, as we drive past a large abandoned
+outlet mall on one side and a big gray convention center on the other.
+Nick drives me over to Tiffiniy’s place, which she shares with Holmes’s
+girlfriend, who let us in. We chat quietly until all of the sudden a
+noise comes running up the stairs, screaming into the room — Tiffiniy,
+wide-eyed, coming in and hugging me. ‘You’re here! You’re here!’ she
+shouts.
+
+Tired, I smile a little weakly.
+
+* * * * *
+
+Washington, D.C.
+
+We chat about technology and globalization — while they assure me they
+agree with my politics, they can’t help but wonder whether there are
+benefits to globalization. (My new strategy for discussing
+globalization, which I haven’t actually gotten a chance to employ, is to
+just repeat back whatever people tell me except replace globalization
+with colonialism.)
+
+I then head uptown to the *Washington Post*. Derek comes down to meet me
+and sign me in. I notice that on the guestbook the last person to sign
+someone in was political reporter Dana Milbank. Derek takes me up to the
+*Post* newsroom, which looks just like it did in *All The President’s
+Men* (not surprisingly because, Derek comments, the movie was filmed
+here): a vast sea of gray cubicles with men in suits walking from one
+place to another, surrounded by reams of paper (and now, of course,
+computer terminals).
+
+Derek, formerly a Congressional reporter, now works as the *Post*’s
+research database editor, a job which has always struck a political geek
+like me as a rather sexy position. As we walk to his area of the
+newsroom, he points out the various other parts (‘oh, there’s Howard
+Kurtz,’ he says, ‘that guy is always working!’). He introduces me to his
+co-workers, one of whom tells me the most amazing story about facing
+down a powerful politician with a pile of data he’d found by crunching
+the numbers in his database. He points to a picture man being
+frog-marched which sits above his computer. ‘End result was, this guy
+went to jail,’ he explains. I can’t help myself from smiling widely — it
+almost gets rid of by cynicism about journalism.
+
+* * * * *
+
+[image not found]
+Holmes (L) and Nick of Downhill Battle\
+*photo: William Huber/Mother Jones*
+
+Holmes and Nick first met going to high school in Worcester. They soon
+moved to a Masachusetts math and science magnet school at a local
+university, where they met Tiffiniy Cheng and others. The group split up
+to go to college but ever since then they’ve slowly been reassembling,
+living cheaply in Worcester and spending their time fighting the abuse
+of copyright law.
+
+Their organization, Downhill Battle, first appeared on the Internet
+scene with [iTunes iSbogus](http://www.downhillbattle.org/itunes/), a
+vicious parody of the website for Apple’s newly-launched iTunes Music
+Store. At a time when most copyright activists were painstakingly
+careful to insist they opposed downloading copyrighted music and arguing
+that the music industry should find a way to make downloading music
+legal, the website’s opposition to one of the first moves in this
+direction and its full-throated support of file sharing software was
+nothing less than shocking. Here was someone not just saying what all
+the kids were thinking, they were actually providing a pretty careful
+intellectual justification for it. “iTunes is just a shiny new facade
+for the ugly, exploitative system that has managed music for the past 50
+years,” they wrote.
+
+Downhill Battle continued to grow, launching sites like [What A Crappy
+Present.com](http://www.whatacrappypresent.com/) (humorously warning
+parents not to buy CDs), [Coal for
+Christmas](http://www.downhillbattle.org/coal/), and [Grey
+Tuesday](http://www.greytuesday.org/). And with the help of another high
+school friend, programmer Nick Nassar, they begun developing
+software-based websites like [Blog
+Torrent](http://www.blogtorrent.com/), designed to make sharing files
+through BitTorrent as easy as posting to a blog.
+
+With little more than a computer in the attic of Nick’s parents’ house,
+they became a major force in the Internet copyright debate. Cory
+Doctorow lavished praise on their youthful humor and energy (“one of the
+best, most effective group of copyfighters on the net, fast turning into
+a MoveOn for the P2P wars,” [he once called
+them](http://www.boingboing.net/2004/11/14/bountyraising_for_en.html),
+“my favorite gang of take-no-prisoners
+copyfighters[”](http://www.boingboing.net/2005/02/22/get_paid_to_write_co.html))
+and Larry Lessig begun denouncing their “extremism” (the anti-copyright
+analog, he argued, of those who think everything should be copyrighted
+forever) in speeches, positioning himself as a centrist between such
+extremists.
+
+And Downhill Battle continued to grow, launching two more non-profits —
+the Participatory Politics Foundation, which develops the kind of
+political technology hacks in a way I once dreamed of doing myself
+(current projects include [a Slashdot-style news site for
+politics](http://theregular.org/) and [a website for tracking current
+congressional legislation](http://opencongress.org/)), and the
+Participatory Culture Foundation, which is [developing a Internet TV
+platform](http://participatoryculture.org/) which will let anyone start
+their own television network (delivered over BitTorrent) which can be
+easily downloaded from a GUI player (Al Gore’s cable channel and the
+SEIU, among others, have already signed on to provide content).
+
+With the non-profits came actual funding — up to then, the thing was
+funded by meager merchandise sales, savings, and living cheaply
+(including living out of their parents’ houses and buying clothes from
+the Salvation Army) — and stuff that seemed more like actual work:
+giving presentations to funders, calling people to invite them to
+provide content for the TV platform, and so on. No more dashing off web
+pages attacking major media corporations, now it’s a long slog toward
+shipping, all under the guise of professionalism. But it’s not like
+they’ve started wearing suits or anything…
+
+(And now they want *you* to [join
+them](http://participatoryculture.org/jobs/)! What a sweet job that
+would be…)
+
+* * * * *
+
+Worcester, Massachusetts
+
+Tiffiniy’s friend is also visiting from Vermont this weekend and the
+Tiffiniy decides to take us all on a little tour of Worcester. Worcester
+is an odd city. It’s an hour away from Boston, yet it looks just like
+part of the city, not a suburb. But despite looking like a city — blocks
+and blocks of retail and business and things — the streets are
+completely empty. And while it contains several colleges, it doesn’t
+feel at all like a college town. And — and maybe this last part is just
+the Downhill Battle guys — but everything looks like it’s from the 70s.
+
+Tiffiniy’s apartment, for example, has old draped couches and tables,
+sinks and stoves — even [the new
+books](http://www.sevenstories.com/Book/index.cfm?GCOI=58322100956870)
+have retro covers. And the first place Tiffiniy took us was an old
+shopping mall where they considered buying office space (they needed a
+place to invite bands, they claim) and the whole thing looks run-down
+and wooden. Then we head to a hot El Salvadoran restaurant that
+similarly seems like a throwback. And, of course, all of them dress in
+retro clothes.
+
+At the restaurant, Holmes shows up on his skateboard (also giving me a
+hug) and getting really into the soccer match playing on the TV.
+Holmes’s girlfriend mentions she’s getting a tattoo of a Jimmy Corrigan
+bird on her arm (Holmes’s sister, I noticed, has the Tristero logo) and
+Holmes asks me if I’ve read Jimmy Corrigan. ‘No,’ I reply. ‘Oh, you have
+to,’ he insists. I say I want to, that I’ve read some of Chris Ware’s
+other stuff and I really enjoyed it — in fact, I saw him do the most
+amazing thing with Ira Glass. The whole table groans (with the except of
+Tiffiniy’s friend, the other visitor). ‘Ira Glass is a such a jerk!’
+they insist and I get into a long argument about Ira Glass, who I
+actually really like, but they argue saps all political meaning out of
+life.
+
+‘The whole point of Ira Glass,’ Holmes explains, ‘is so that some yuppie
+sitting in their car can listen to some sappy story about a girl who
+lost their dog and think that now they’ve experienced what it really
+means to live in America. The show makes no distinction between
+whatsoever betweem whatever little yuppie bullshit their average
+listener has to put up with and the real societal problems that face
+America. Whether they’re talking about silly kid or about gun control,
+it’s the same stupid background music, the same smarmy tone.’
+
+* * * * *
+
+Washington, D.C.
+
+American University is hosting the Free Culture conference (they’re the
+ones with the Ford Foundation funding) and they’re ferrying us all from
+the hotel to the campus in a series of cabs. Inside an innocuous-looking
+building at the center of the AU campus, they’ve taken out a whole room
+and done it all up with fancy lighting and real caterers.
+
+I try to get around and chat. Colin Mutchler, an artist and and activist
+who is hosting the discussion, made waves the past year with his [Free
+Culture Tour](http://www.activefreemedia.org/tour/) in which he traveled
+the country performing on the subject of copyright law and things like
+Creative Commons. He repeats the presentation for us (it includes, I was
+later told, a photo of me wearing a CC shirt to represent Creative
+Commons — I noticed the CC logo but somehow missed the fact that it was
+me wearing it!) and it’s amazing. For some reason, I find spoken word
+incredibly powerful in a real, visceral way.
+
+Afterwards, the apparently famed [DJ
+Rekha](http://sangament.com/djrekha/) took over and the Downhill Battle
+people cleared out some space and started dancing away, eventually
+drawing others in to join them. I tried to but couldn’t shake my
+self-consciousness.
+
+* * * * *
+
+Worcester, Massachusetts
+
+Back at Tiffiniy’s apartment, Holmes is carrying his girlfriend, who is
+not feeling well, inside. Tiffiniy is hanging out with her visiting
+friend and so I head with Nick to a place he calls “the collective”,
+which sounds interesting enough for me to get in the car without asking
+further questions. The collective’s full name, as it turns out, is
+“Collective á Go-Go” and Nick explains that while his friend Jake is on
+tour with his band, he’s staying in Jake’s room there.
+
+As we drive Worcester becomes increasingly less city-like, its tall
+blocks fading into strip malls and then disappearing altogether, leaving
+houses surrounded by trees. Eventually we pull into the drive way of one
+especially large house and cut the engine. As I step out, the first
+thing that hits me is the overwhelming silence. The place is beautiful,
+tucked into luscious green woods.
+
+The house tries to be mostly self-sufficient. Water is taken from a
+nearby reservoir but is heated by hand over a stove powered by firewood
+which they cut to size themselves (the wood itself comes from a tree
+removal service). In lieu of bathrooms, they run their own composting
+process. They have a garden where they grow some food, the rest is
+bought from local organic farms. Chores (of which there are a lot, Nick
+says) are shared equally.
+
+In fact, we’re here now to help chop firewood. Nick tries to show me how
+to chop the wood down to size by hand with a thing that looks like an
+axe (but blunter, Nick says). As you might expect, I’m terrible at it.
+We eventually pull out the heavy duty wood-cutting machine, in which a
+hydraulic piston pushes the wood through the axe blade. Even this is
+something of a challenge, since the wood has a tendency to try to jump
+up and get stuck and other such things.
+
+* * * * *
+
+Washington, D.C.
+
+It’s surprising how few people I know at this party. People keep having
+to explain other people to me.
+
+* * * * *
+
+Worcester, Massachusetts
+
+After chopping wood, Nick shows me around the collective. The garage
+houses a full silk screening system, which is where they make the
+Downhill Battle tees. Jake used to be in charge and then Holmes’s
+girlfriend, who used to live here, begun helping out. Jake calls on the
+phone and Nick talks to him for a bit, asking how the tour is going.
+
+Inside, Nick introduces me to some of the other collective members and
+they talk a bit more about Jake. And then, a thought hits me. ‘This
+isn’t Jake *Berendes*, is it?’ I say. Nick looks taken aback. ‘You know
+Jake Berendes?’ ‘Well, I know of him.’ ‘How?’ “My friend Leonard
+Richardson is always making jo—” ‘Oh, you know Leonard! Wow, that’s
+incredible.’ The fact that I knew of Jake Berendes quickly became the
+most interesting thing about me and Nick eagerly told everyone.
+
+‘Indeed,’ I said, ‘sometimes Leonard needs to [assure people that Jake
+is a real person](http://www.crummy.com/2005/04/21/1)!’ ‘Jake doesn’t
+sound like a real person?’ laughs a collective member with an air that
+suggests sometimes Jake can be all-too-real. ‘Not the way Leonard tells
+it,’ I reply.
+
+[Aside: To discuss Jake Berendes would not only be going far beyond my
+area of knowledge but also to delve into a strange world of [magical
+realism](http://www.crummy.com/articles/jake_berendes_west_covina/),
+[amateur music](http://crummy.com/music/), [nested
+in-jokes](http://www.xorph.com/jake_berendes_west_covina/), [Repetitive
+Electronic
+Music](http://www.corleonerecords.com/catmore.asp?release=42 "Ordem E Progresso"),
+and [giant squid](http://www.fujichia.com/stuffed/squids/). Not that
+that’s a bad thing.]
+
+Nick takes me up to Jake’s room. “Jake is the most creative person I
+know,” Nick says. Every day he writes [a weblog
+entry](http://www.fujichia.com/index1.html) and [makes a stuffed
+animal](http://www.fujichia.com/stuffed), he writes numerous songs,
+draws, makes posters, puts together zines, and on and on. It is truly
+incredible. Nick gives me a CD to take home.
+
+* * * * *
+
+Washington, D.C.
+
+The university kicks us out at what seems like an unreasonably early
+hour and we head outside to wait in the cold for the cabs that are
+supposed to take us back to our hotel. Nobody shows up for what seems
+like forever until a stationwagon finally arrives. Desperate, we decide
+to all pile in; the Downhill Battle people and me all lying together in
+the trunk. Someone snaps a photo. “No rich metadata!” Holmes cries. ‘You
+can post it but I don’t want it to be found by searching for my name.’
+
+We realize, piled into the trunk of a cabbie’s stationwagon, that the
+night is still young. We decide to ask the cabbie to drop us uptown near
+some bars. I ask Holmes if they’re sure they want me along, but Holmes
+is nothing if not accommodating and thinks we’ll be able to make it work
+out. When the cabbie drops us off, Holmes stops someone on the street
+and asks him if he can recommend any bars I might be able to sneak into.
+‘Not a chance!’ says the guy.
+
+Undeterred, we head to the first bar we spot. One of the Battlers has a
+recently-expired ID whose photo looks a decent amount like me and I give
+it to the bouncer. He looks at it for a second and then lets me in. The
+actual battler holds back for a while and enters with the real ID soon
+after.
+
+It’s my first time in a bar and, like most such firsts, it is inevitably
+disappointing. It looks much like any other restaurant. It’s quite
+stylish, with globe lights and fake branches as plants. The waitress
+takes some orders and the music pounds. We sit in a booth and chat with
+our neighbors.
+
+I first met Holmes at [a party hosted by Zack
+Rosen](http://www.aaronsw.com/weblog/001645) months ago. Zack, who
+looked so at home when he was at a party…well, at home, now looks sort
+of out-of-place, like I often feel at parties. Unfortunately he’s too
+far to talk to.
+
+* * * * *
+
+Worcester, Massachusetts
+
+Back at Tiffiniy’s apartment, they’re inflating a new raft. We all take
+turns getting lightheaded on hyperventilating over plastic fumes. We
+throw the raft on top of the car, each grabbing a side, and drive to the
+top of a hill overseeing a lake. Nick throws the raft onto the hill and
+we take turns sliding it down (it’s not a very steep hill). We throw the
+raft into the mud surrounding the lake. For a moment it looks like I’m
+going to go with Tiffiniy’s friend, but this mistake is quickly
+rectified and I hang back with Tiffiniy until its our turn.
+
+The sun is setting and the lake and trees are all drawn in pale blues
+and greens. The lake is like a shimmering mirror, the yellow raft
+hanging in the middle. When its our turn Tiffiniy goes in first and I go
+in after but end up slipping in the mud, falling on top of her, getting
+water in the boat, and getting myself all swampy. We embark anyway,
+using brooms brought from the apartment as paddles. The mood is slightly
+ruined, as are my clothes.
+
+* * * * *
+
+Washington, D.C.
+
+The law school graduate fighting medicine patents is rather obviously
+hitting on Nick. ‘*Tell me your dreams*’, she says lusciously. ‘Well,
+uh,’ Nick replies, stiff and nervous, ‘our group tries to fight, uh, the
+expansion of, uh, copyright law by—’. ‘*No*’, she interrupts. ‘*Not the
+group’s dreams — your dreams*.’ ‘Oh. Well, uh.’
+
+We’ve left the bar and are now walking the streets in search of dancing,
+although we can’t quite seem to remember the name of the place we’re
+heading for. Captain something, perhaps? Oh, there it is. We try to pull
+off the ID trick again, but we’re foiled by the \$5 cover charge. “Five
+dollars!” someone exclaims. We head back to regroup. Law school girl
+heads in to see if she can pull out a friend.
+
+Her friend is a shortish snobbish fellow, with a manner that was the
+subject of much derision but which is rather hard to describe. ‘Oh, boy,
+there’s sure a lot of you. Well, uh, I could probably get you and you in
+— who wants to actually get in? — yeah, you and you.’ He looks at me.
+‘Sorry buddy, but there’s no way I’m gettin’ you in.’ Holmes decides
+that maybe he doesn’t want in and we head home, joking about what a jerk
+he was. ‘Please, you could get in,’ he assures me.
+
+* * * * *
+
+Worcester, Massachusetts
+
+Back at Tiffiniy’s apartment, they’re cooking up some dinner. I’ve taken
+off some of my more swampy clothes, borrowing some of Tiffiniy’s pants.
+Afterwards, we make plans to head over to a swimsuit-themed party. They
+call up their friend programmer, who I will call Sam, and invite him to
+come over. When Sam arrives, Nick suggests we discuss RSS, a prospect
+which Sam is not particularly enthusiastic about (and, to be honest,
+neither am I).
+
+We apparently get to the swimsuit party a little too early, since nobody
+has really arrived yet. We stand in a circle and talk for a bit with the
+lights on and then mill about for a little while. Topics for
+conversation are not particularly forthcoming. Sam tries to spark a new
+one: ‘I spent the day rereading *Ender’s Game*,’ he suggests. This
+sounds rather awkwardly geeky, but I can’t help but chime in: ‘Oh, I did
+that once too! Just sat started looking at it and before I knew it I’d
+reread the whole thing.’ ‘What’s *Ender’s Game*?’ asks one of the girls.
+We’re apparently the only two who know.
+
+Sam is clearly socially awkward so it doesn’t surprise me too much when
+a little later he announces that he’s heading home. But it does surprise
+the Downhill Battle folks. Word spreads that apparently Sam was asked to
+leave, which strikes me as a little much. I mean, he obviously wasn’t a
+party person, but to throw him out?
+
+It turns out that things are much stranger than that. In fact, Sam’s
+ex-girlfriend who broke up with Sam after cheating on him, is coming
+over soon and apparently they don’t think he should be around for it.
+Holmes thinks this is monumentally unfair and, he later tells us, he
+seeks out the girl who asked Sam to leave and gets in her face. ‘Maybe
+next time you could tell me in advance who I can and can’t bring to your
+parties,’ he tells her.
+
+‘I’ve been watching the OC a lot,’ he later explains, ‘and on that show
+if someone has a beef with someone else they just go right there and
+tell them. The Worcester scene’s too small for people to be having beefs
+like this; it’s noxious. We just need to get this all out into the open.
+We could have a Worcester beef wiki. You know, you’ve got to write up
+everybody you’ve got a beef with.’
+
+So at the party, he just kept staying on the girl, asking her why Sam
+couldn’t stay and what the problem is and she repeatedly declined to
+comment. ‘They’re never going to invite you back,’ someone comments.
+‘Oh, I knew that,’ Holmes says. ‘I don’t care. I don’t want to go back
+if that’s how they’re going to be.’
+
+* * * * *
+
+Washington, D.C.
+
+The Ford Foundation, foolishly, did not bring us all out here simply to
+hang out and party. Instead, they’ve provided what I assume is the
+standard summit garb: a long white U-shaped conference table with a
+projector at one end along which we can type on our laptops while
+sharing insights. Such sessions are certainly popular, but I’m not sure
+how effective they (as opposed to the discussions outside them) really
+are.
+
+The last major one I went to was a alternative [music] compensation
+system (ACS) meeting hosted by Harvard Law’s Terry Fisher. I took
+copious notes of the discussion, which Terry suggested I not post on my
+blog, but those don’t seem to have been worth anything and instead what
+I remember is being snowed into the Sheraton Commander with Ed Felten
+and Ernest Miller and friends.
+
+One problem is that such events have rather unclear goals, like
+“fostering discussion”. One can certainly have a conversation — two,
+maybe even three or four, people talking to each other — and one can
+have many such conversations. But one cannot have conversations
+involving groups of twenty or thirty people, especially when the topic
+is boring and the people are prone to speeches. It’s just doesn’t work.
+The only useful part, as the participants will readily attest, is the
+conversations in the hallways.
+
+Still, you obviously want to go to such summits, if only for the
+prestige and fun of hanging out with such cool people. And something
+about such meetings seems to compress people, making them into more
+concentrated coolness than normally. Hanging out with the amazing Ed
+Felten at the ACS meeting led me to go home and apply to Princeton
+(where he teaches) and, as we will see later in this story, hanging out
+with the Downhill Battle people had a similar effect.
+
+And so, I’m in something of a bind, since I want to get invited to such
+meetings but I don’t really like them. So I can’t really talk about them
+much on my blog. Nor can I tell the organizer what I really think about
+them, although they always ask. And worst of all, I sort of tune out
+during the actual meeting-part conversations which makes me shy about
+speaking up lest I betray this fact, which in turn makes the organizer
+regret inviting me. ‘I invited this Aaron kid because I thought he was a
+genius,’ they say to themselves, ‘but he didn’t say a word!’ (As a last
+ditch attempt to justify flying me out they try to pressure me into
+saying something but I’m not very cooperative.) It’s all so sad.
+
+* * * * *
+
+Winnetka, Illinois — Ninth Grade
+
+But perhaps not as sad as me at a party. In junior high and high school
+we would routinely have what the school insisted on calling “socials” —
+basically dance parties. I was practically alone in almost never showing
+up and my classmates, who showed the same surprising social generosity I
+see in the Downhill Battle Kids, went so far as to start bribing me to
+come.
+
+Even when I did come I mostly stood in the corner, perhaps twitching
+occasionally, maybe talking to some people. During a slow dance a girl
+finally grabbed me from the corner (perhaps even ditching her date) and
+pulled me out to the floor, putting her hands on my shoulders, as was
+the custom. I reacted, naturally, by putting my hands on her shoulders
+but a within a few seconds noticed this was quite wrong and that all the
+other men had their hands on either side of their partner’s waist, so I
+quickly corrected myself. I still had no idea what to do with my feet,
+but to my recollection I didn’t do anything incredibly stupid with them,
+but I can’t say the moment was particularly enjoyable, seeing as how I
+was gripped with fear the whole time.
+
+Further bribes led me to try to participate in the bizarre actions that
+seem to make up modern “dance”, which make my twitching look tame by
+comparison. Dance has never really made a whole lot of sense to me, but
+its modern version is surely especially odd, consisting as it does
+mostly of people huddling close together and sort of writhing and
+shaking various appendages in some vague relation to the music.
+
+The worst thing about it, however, is that stupid as it is you can do it
+poorly and look even stupider. And, as you might expect, falling from
+such an already low level could leave one’s self-esteem at rather
+perilous lows. So in dancing, one tries to keep a sense of just how
+stupid one looks at this moment, in order to determine whether to cease
+such activity. Unfortunately for one, however, it is precisely this
+self-conscious monitoring that is the primary cause of poor dancing.
+
+Worcester, Massachusetts — Present Day
+
+Taking all this into account, I am sitting alone at a table in the
+kitchen with a neckache while dancing grows in the other room and people
+start smoking pot on the porch. Holmes, frustrated with the stereo
+system, has commandeered it and attached it to an iBook and is now
+downloading songs to play off a peer-to-peer network. Once he feels he
+has sufficient songs queued up he comes over and sits down with me.
+
+‘Are you OK with just sitting here?’ he asks. ‘Because I want to know if
+I should pressure you to come join us and I know there are some people
+who are just totally OK with who they are.’ I’m rather surprised at the
+question and not really sure about how to articulate my feelings. ‘Well,
+um,’ I say. ‘No, then. If you have any question about it, then the
+answer is no.’ ‘Well,’ I finally say. ‘Right now, this person I am right
+now, has no desire to go dancing. But I’m beginning to wonder if I
+should be a different sort of person.’
+
+This too apparently means no and Holmes drags me into the other room and
+I slowly begin twitching again, expanding until I reach a range which
+might be considered moderate dancing, which I still am not doing very
+well at. Holmes and friends decide to liven up the party but running
+into a mattress that’s laid up against the wall a high speeds, causing
+them to bounce off of it and into the crowd. I decide to join in and
+it’s the first fun thing I’ve done all night.
+
+* * * * *
+
+Washington, D.C.
+
+One of the cooler groups here are the folks from Third World Majority
+(website [cultureisaweapon.org](http://cultureisaweapon.org/), who
+manage to combine some of the most radical rants with support for the
+power of technology. The tech industry, as Thomas Frank superbly
+documents (notably in *One Market Under God*), consists mostly of
+radical politics as sham — letting 20-year-old kids run companies is
+supposed to replace economic democracy — but TWM has radical politics as
+extreme as anything I’ve seen.
+
+* * * * *
+
+Worcester, Massachusetts
+
+A dark-skinned youth in what I guess are called hip hop clothes enters
+the party. He wasn’t invited, he admits readily, but he saw the noise
+and decided to come by. Back in Illinois, I’d have to say, they’d
+probably be trying to kick the kid out right about now, but these
+Worcester kids just toss him a beer. Conversation with him is perhaps a
+little strained, but there’s no overt tension.
+
+He invites a few of his friends over (which is probably exactly what the
+Illinois kids were afraid of) and while for the most part they associate
+among themselves, nobody seems to mind them.
+
+* * * * *
+
+Washington, D.C.
+
+Aside from the Downhill Battle folks, the coolest person here is Hannah
+Sasserman of the [Prometheus Radio
+Project](http://www.prometheusradio.org/). Prometheus, [profiled in *The
+Nation*’s radio
+issue](http://www.thenation.com/docprint.mhtml?i=20050523&s=karr),
+started as a collective that started illegal “pirate” radio stations.
+The group has lately gone legit, lobbying for the legalization of
+Low-Power FM (LPFM) stations and building community radio stations
+instead of pirate ones. Hannah is intelligent and articulate and
+passionate and good at balancing the legal and illegal sides of her job.
+“She’s definitely one to watch,” I wrote a friend afterwards.
+
+A professor asks if some students can practice by filming us and Hannah
+comments by saying something about them filming her ass. ‘It’s not
+supposed to be X-rated,’ the professor explains. ‘Oh, don’t worry,’
+Hannah replies. ‘My ass is not X-rated.’
+
+* * * * *
+
+Worcester, Massachusetts
+
+Back at the Tiffiniy’s apartment, my neck still hurts, the pain crawling
+up towards my head as it usually does. As the party went on people begin
+taking off their clothes, revealing the swimsuits underneath (it was a
+swimsuit party, after all). Even Holmes strips down to some
+tight-fitting swimming trunks. Some of the girls even started swapping
+swimsuits. I think I finally understand what Aimee Mann meant when she
+sang “trading clothes and ringing Pavlov’s Bell”.
+
+We left probably around probably 4am. (I remember I once was at a rather
+geekier party and I was introduced to Miguel de Icaza. Miguel and I
+really didn’t have all that much to talk about, so he started flipping
+his sexy cell phone open and closed and telling me about the dance
+parties he went to. Where he was from, he told me, the music didn’t even
+*start* until 4am!)
+
+I ask if there’s any aspirin for my head and they tell me that the
+solution to headaches is to drink some water and eat stuff. I try this
+but tell them that I don’t think it’s going to work and when I don’t
+take aspirin in response to a neckache I generally end up waking in the
+middle of the night with a searing pain tearing apart my skull. After
+repeating this story several times in a rather subdued tone, they kindly
+get some aspirin from the local 24-hour pharmacy.
+
+Holmes arrives later and debriefs us about the night, giving the above
+riff about the OC, which leads to a discussion about how things are much
+better on television. ‘You know what else is good about the OC? The kids
+just totally ignore the parents. You want to go visit someone? You drive
+over there and next thing you know you’re in their bedroom.’ I suggest
+that another good thing about the OC is that you get places instantly,
+but Holmes assures me that the show’s realism includes actual driving.
+
+Eventually we go to sleep — I’m allowed to use the bed out on the
+glass-enclosed second-floor back porch.
+
+* * * * *
+
+Washington, D.C.
+
+After the day’s long meeting we’re taken on a bus to a crowded fancy
+restaurant. We’re stored in three tables up in the top floor’s corner.
+At one point I have to go down to the bathroom and I swear it looks just
+like the choreographed office number from *Brazil*: people in colorful
+clothing go up and down the stairs, a waiter with a tray cuts in front
+of me, a scenic view from the second floor over a crowded restaurant,
+people pass pieces of paper back and forth in front of me, all while a
+perfectly steady camera shot takes it all in.
+
+Back at the table, I sit next to Tiffiniy. She says she’s not feeling
+very well so she sort of slouches down in her chair quite a bit and to
+keep talking to her I slouch down and do face the same way. While we’re
+oblivious, someone snaps [a
+photo](http://www.flickr.com/photos/activefree/15723535/in/photostream/)
+and laughs and shows it to us. It looks like we’re swooningly in love.
+
+* * * * *
+
+Worcester, Massachusetts
+
+I wake up to the sun streaming through the glass ceiling. I get up and
+spend an hour just sort of staring at my hands. Later I head in and we
+go out to breakfast.
+
+* * * * *
+
+Washington, D.C.
+
+After dinner a fellow from the Consumers Union (nonprofit publisher of
+*Consumer Reports*, although they’re actually much more political than
+that would suggest) invites us over to his house, which looks a little
+like the kind of old abandoned places that people throw wild parties at
+in movies. He hasn’t been letting the place go to waste though — he
+installed a large stripper pole in the middle of the living room.
+
+Some loud music is put on and I head out to the back porch to escape it.
+Holmes decides to take a seat and as water starts squirting out from
+under him, he realizes he’s sat in a puddle. He takes off his pants and
+throws them on the nearby barbecue, where they proceed to start
+steaming. It looks like smoke, of course, and one wonders what the
+neighbors think when they come out on their porch and observe us.
+
+The Downhill Battle kids have brought their skateboards and we take
+turns trying them, the more adventurous racing down the hill. Just the
+driveway’s tilt is too much for me — things go too fast and I arch my
+back and scrape my wrist and knee.
+
+I hang out with Tiffiniy on the front steps for a bit and then she grabs
+my hand and drags me across the street and over a fence, up some stairs
+into this amazing urban meadow between two houses that’s been allowed to
+run wild, grass growing tall and crawling up a defunct fountain in the
+middle. ‘Isn’t this beautiful?’ she asks and indeed it is. After some
+time we head back and some time after that she heads off with some
+people to a bar. ‘Do you want to come?’ she asks and I do but I also
+don’t want to cause trouble again so I stay behind and head back to the
+hotel, looking at myself in the hotel’s many mirrors, checking out how I
+look in the tight-fitting Downhill Battle tee they gave me.
+
+* * * * *
+
+Worcester, Massachusetts
+
+We pile into a place that looks like your typical breakfast diner,
+ordering one and two dollar meals which Holmes pays for entirely in the
+quarters he has in his pockets. Holmes asks me what sort of political
+software I want to work on and I tell him that as I’ve radicalized I’ve
+had trouble thinking of software radical enough to keep up with my
+politics. ‘But projects don’t have to be explicitly political to have
+political effects,’ he says. ‘Look at Wikipedia.’
+
+‘Yes, look at Wikipedia,’ I say. ‘Wikipedia was founded by an
+Objectivist and its policies are explicitly anti-truth.’ ‘Anti-truth?
+Wikipedia’s policy is truth through process.’ ‘The Wikipedia [npov
+policy
+page](http://en.wikipedia.org/wiki/Wikipedia:Neutral_point_of_view#What_is_the_neutral_point_of_view.3F)
+explicitly says that it doesn’t matter whether something is true or not
+— it can only be put on a Wikipedia page if it’s popular. And that makes
+some sense from a certain perspective, but it’s certainly not political.
+In a messed-up society like ours, neutral policies don’t have neutral
+effects. The process will just reinforce the status quo.’
+
+‘Does this really happen?’ ‘Sure, I tried an experiment. I picked one
+page — the article on *From Time Immemorial*, a book that claimed there
+were really no Palestinians — and tried to tell the full story, which
+involved such shocking facts as that a journal article exposing the book
+as a fraud couldn’t get published anywhere. My well-cited additions kept
+getting deleted and when I asked why someone explained on the talk page
+that what I was saying was silly — nobody rejects journal articles that
+are accurate. Well this was precisely the point I was trying to argue
+against!’
+
+‘So what’s the solution? Does a wiki have to have an explicit political
+point of view?’ ‘Well, that’s one possibility — one that I’m sort of
+trying. But a simpler answer is to just say that instead of only
+including things people believe, only include things you can provide
+citations for. Require people to provide evidence for their claims.
+That’s a much better way of getting truth and it’s much more useful too,
+since people can get the cites to learn more.’
+
+* * * * *
+
+Washington, D.C.
+
+The second day of the Free Culture meeting is much shorter and emptier.
+Under pressure, I give a short talk on my radical wikipedia and,
+shockingly, one of the people from Third World Majority comes up to me
+afterwards to note that she’s actually used the site (which I haven’t
+even told anyone about). And then I say my goodbyes (Tiffiniy says it
+feels like the last day of summer camp) and drive to the airport with
+Zack Rosen, get onto my plane, and fly back to California.
+
+* * * * *
+
+Worcester, Massachusetts
+
+After breakfast, the gang takes me on a small car tour around Worcester
+and then back to the train station. ‘This didn’t really work out the way
+I expected,’ Tiffiniy says. ‘We’re not usually this social. I thought we
+were just going to hold hands and walk around the city. You’ll have to
+come back. Think of Worcester as your home.’ I thank them for their food
+and beds and tight-fitting pants and party invitations and so on and
+then head into the grandly architected Worcester station and onto the
+train and back to Boston.
 
 SFP: The Spirit Inside
 ======================
@@ -1210,6 +2143,62 @@ more to do, including building structures to do the work in.
 
 So that’s the other thing I’m thinking about.
 
+
+Faces of Fame
+=============
+
+July 22, 2005
+
+[Original link](http://www.aaronsw.com/weblog/myface)
+
+* * * * *
+
+In his book [*Breaking the News: How the Media Undermine American
+Democracy*](http://www.amazon.com/exec/obidos/ASIN/0679758569/coolbooks02/)
+(a relatively moderate book, despite the title) James Fallows asks (p.
+94):
+
+> Why do [journalists] want to appear [on TV], when so many reporters
+> make fun of the shows? … The most immediate payoff is the simple
+> thrill of being noticed and known. Political-journalistic Washington
+> functions much like a big high school, with cliques of the popular
+> kids, the nerds, the rebels, the left-outs, and so on. To be on Tv is
+> to become very quickly a cool kid. Friends call to say they’ve seen
+> you. People recognize you in stores. Whether people agree or disagree
+> with what you said (or whether they even remember), they treat you as
+> “realer” and bigger than you were before.
+
+I learned this weekend that I narrowly missed being on TV (CBS left me
+on the cutting room floor — I knew wearing that *Democracy Now!* shirt
+was pushing it) but I realized that as a prominent online journalist and
+a new (media) online magazine I should try to capitalize on my existing
+media power. So I’ve posted a photo on the sidebar, so that if any of my
+many millions of readers happen to notice me on the street or in the
+shop, they can behave as Fallows suggests:
+
+> [One] hears from friends and relatives for weeks afterward, “I saw you
+> on TV!” [Regular commentators] have that extra, sizzling experience of
+> seeing strangers’ heads flip back, for a second look (“Is it really
+> him?”) as they walk into restaurants or through airport corridors.
+
+Of course, TV does have one big difference:
+
+> In each case the recognition is almost entirely judgment-free … Print
+> forces the reader’s attention past your personality to whatever your
+> article is trying to say. TV’s effect is mainly to make you bigger
+> than life. For each hundred acquaintances who will say, “I saw you on
+> the show,” only one will say, “I agree [or disagree] with what you
+> said.”
+
+So, uh, if you happen to see me in a movie theater, or on an airplane,
+or in the bathroom, or in your dorm room, don’t hesitate to shout, ‘HEY!
+It’s Aaron Swartz! I saw you on the weblog.’ Here, I’ll help you out
+with another picture:
+
+[image link broken]
+
+Heh, I almost put a picture of Blake Ross there. You would have fallen
+for that wouldn’t you!
 
 iCommons Summit
 ===============
@@ -7136,6 +8125,246 @@ Wikipedian, I hope that you’ll please [vote for
 me](http://en.wikipedia.org/wiki/User:AaronSw/Election).
 
 
+Who Writes Wikipedia?
+=====================
+
+September 4, 2006
+
+[Original link](http://www.aaronsw.com/weblog/whowriteswikipedia)
+
+* * * * *
+
+**Wikimedia 2006 Elections**
+
+Part 1: [Wikimedia at the
+Crossroads](http://aaronsw.com/weblog/wikiroads)\
+ Part 2: **Who Writes Wikipedia?**\
+ Part 3: [Who Runs
+Wikipedia?](http://aaronsw.com/weblog/whorunswikipedia)\
+ Part 4: [Making More
+Wikipedians](http://aaronsw.com/weblog/morewikipedians)\
+ Part 5: [Making More
+Wikipedias](http://aaronsw.com/weblog/morewikipedias)\
+ Part 6: [Code, and Other
+Laws](http://aaronsw.com/weblog/wikicodeislaw)\
+
+**Translations:**
+[日本語](http://www.hyuki.com/yukiwiki/wiki.cgi?WhoWritesWikipedia),
+[Español](http://es.wikipedia.org/wiki/Usuario:Chewie/Qui%C3%A9n_escribe_la_Wikipedia),
+[Deutsch](http://de.wikipedia.org/wiki/Benutzer:Avatar/Wer_schreibt_die_Wikipedia),
+[Français](http://ulik.typepad.com/leafar/2006/09/qui_ecrit_wikip.html)
+([add](mailto:me@aaronsw.com))
+
+**[Vote for me](http://en.wikipedia.org/wiki/User:AaronSw/Election)** in
+the election for the Wikimedia Foundation’s Board of Directors.
+
+I first met Jimbo Wales, the face of Wikipedia, when he came to speak at
+Stanford. Wales told us about Wikipedia’s history, technology, and
+culture, but one thing he said stands out. “The idea that a lot of
+people have of Wikipedia,” he noted, “is that it’s some emergent
+phenomenon — the wisdom of mobs, swarm intelligence, that sort of thing
+— thousands and thousands of individual users each adding a little bit
+of content and out of this emerges a coherent body of
+work.”[†](http://aaronsw.com/weblog/whowriteswikipedia_fn1) But, he
+insisted, the truth was rather different: Wikipedia was actually written
+by “a community … a dedicated group of a few hundred volunteers” where
+“I know all of them and they all know each other”. Really, “it’s much
+like any traditional organization.”
+
+The difference, of course, is crucial. Not just for the public, who
+wants to know how a grand thing like Wikipedia actually gets written,
+but also for Wales, who wants to know how to run the site. “For me this
+is really important, because I spend a lot of time listening to those
+four or five hundred and if … those people were just a bunch of people
+talking … maybe I can just safely ignore them when setting policy” and
+instead worry about “the million people writing a sentence each”.
+
+So did the Gang of 500 actually write Wikipedia? Wales decided to run a
+simple study to find out: he counted who made the most edits to the
+site. “I expected to find something like an 80-20 rule: 80% of the work
+being done by 20% of the users, just because that seems to come up a
+lot. But it’s actually much, much tighter than that: it turns out over
+50% of all the edits are done by just .7% of the users … 524 people. …
+And in fact the most active 2%, which is 1400 people, have done 73.4% of
+all the edits.” The remaining 25% of edits, he said, were from “people
+who [are] contributing … a minor change of a fact or a minor spelling
+fix … or something like that.”
+
+Stanford wasn’t the only place he’s made such a claim; it’s part of the
+standard talk he gives all over the world. “This is the group of around
+a thousand people who really matter”, he told us at Stanford. “There is
+this tight community that is actually doing the bulk of all the
+editing”, he explained at the Oxford Internet Institute. “It’s a group
+of around a thousand to two thousand people,” he informed the crowd at
+GEL 2005. These are just the three talks I watched, but Wales has given
+hundreds more like them.
+
+At Stanford the students were skeptical. Wales was just counting the
+number of edits — the number of times a user changed something and
+clicked save. Wouldn’t things be different if he counted the amount of
+text each user contributed? Wales said he planned to do that in “the
+next revision”, but was sure “my results are going to be even stronger”,
+because he’d no longer be counting vandalism and other changes that
+later got removed.
+
+Wales presents these claims as comforting. Don’t worry, he tells the
+world, Wikipedia isn’t as shocking as you think. In fact, it’s just like
+any other project: a small group of colleagues working together toward a
+common goal. But if you think about it, Wales’s view of things is
+actually much *more* shocking: around a thousand people wrote the
+world’s largest encyclopedia in four years for free? Could this really
+be true?
+
+* * * * *
+
+Curious and skeptical, I decided to investigate. I picked an article at
+random (“Alan Alda”) to see how it was written. [Today the Alan Alda
+page](http://en.wikipedia.org/w/index.php?title=Alan_Alda&oldid=72331810)
+is a pretty standard Wikipedia page: it has a couple photos, several
+pages of facts and background, and a handful of links. But [when it was
+first
+created](http://en.wikipedia.org/w/index.php?title=Alan_Alda&oldid=234091),
+it was just two sentences: “Alan Alda is a male actor most famous for
+his role of Hawkeye Pierce in the television series MASH. Or recent
+work, he plays sensitive male characters in drama movies.” How did it
+get from there to here?
+
+Edit by edit, I watched the page evolve. The changes I saw largely fell
+into three groups. A tiny handful — probably around 5 out of nearly 400
+— were “vandalism”: confused or malicious people adding things that
+simply didn’t fit, followed by someone undoing their change. The vast
+majority, by far, were small changes: people fixing typos, formatting,
+links, categories, and so on, making the article a little nicer but not
+adding much in the way of substance. Finally, a much smaller amount were
+genuine additions: a couple sentences or even paragraphs of new
+information added to the page.
+
+Wales seems to think that the vast majority of users are just doing the
+first two (vandalizing or contributing small fixes) while the core group
+of Wikipedians writes the actual bulk of the article. But that’s not at
+all what I found. Almost every time I saw a substantive edit, I found
+the user who had contributed it was not an active user of the site. They
+generally had made less than 50 edits (typically around 10), usually on
+related pages. Most never even bothered to create an account.
+
+* * * * *
+
+To investigate more formally, I purchased some time on a computer
+cluster and downloaded a copy of the Wikipedia archives. I wrote a
+little program to go through each edit and count how much of it remained
+in the latest
+version.[†](http://aaronsw.com/weblog/whowriteswikipedia_fn2) Instead of
+counting edits, as Wales did, I counted the number of letters a user
+actually contributed to the present article.
+
+If you just count edits, it appears the biggest contributors to the Alan
+Alda article (7 of the top 10) are registered users who (all but 2) have
+made thousands of edits to the site. Indeed, \#4 has made over 7,000
+edits while \#7 has over 25,000. In other words, if you use Wales’s
+methods, you get Wales’s results: most of the content seems to be
+written by heavy editors.
+
+But when you count letters, the picture dramatically changes: few of the
+contributors (2 out of the top 10) are even registered and most (6 out
+of the top 10) have made less than 25 edits to the entire site. In fact,
+\#9 has made exactly one edit — this one! With the more reasonable
+metric — indeed, the one Wales himself said he planned to use in the
+next revision of his study — the result completely reverses.
+
+I don’t have the resources to run this calculation across all of
+Wikipedia (there are over 60 million edits!), but I ran it on several
+more randomly-selected articles and the results were much the same. For
+example, the largest portion of the Anaconda article was written by a
+user who only made 2 edits to it (and only 100 on the entire site). By
+contrast, the largest number of edits were made by a user who appears to
+have contributed no text to the final article (the edits were all
+deleting things and moving things around).
+
+* * * * *
+
+When you put it all together, the story become clear: an outsider makes
+one edit to add a chunk of information, then insiders make several edits
+tweaking and reformatting it. In addition, insiders rack up thousands of
+edits doing things like changing the name of a category across the
+entire site — the kind of thing only insiders deeply care about. As a
+result, insiders account for the vast majority of the edits. But it’s
+the outsiders who provide nearly all of the content.
+
+And when you think about it, this makes perfect sense. Writing an
+encyclopedia is hard. To do anywhere near a decent job, you have to know
+a great deal of information about an incredibly wide variety of
+subjects. Writing so much text is difficult, but doing all the
+background research seems impossible.
+
+On the other hand, everyone has a bunch of obscure things that, for one
+reason or another, they’ve come to know well. So they share them,
+clicking the edit link and adding a paragraph or two to Wikipedia. At
+the same time, a small number of people have become particularly
+involved in Wikipedia itself, learning its policies and special syntax,
+and spending their time tweaking the contributions of everybody else.
+
+Other encyclopedias work similarly, just on a much smaller scale: a
+large group of people write articles on topics they know well, while a
+small staff formats them into a single work. This second group is
+clearly very important — it’s thanks to them encyclopedias have a
+consistent look and tone — but it’s a severe exaggeration to say that
+they wrote the encyclopedia. One imagines the people running
+*Britannica* worry more about their contributors than their formatters.
+
+And Wikipedia should too. Even if all the formatters quit the project
+tomorrow, Wikipedia would still be immensely valuable. For the most
+part, people read Wikipedia because it has the information they need,
+not because it has a consistent look. It certainly wouldn’t be as nice
+without one, but the people who (like me) care about such things would
+probably step up to take the place of those who had left. The formatters
+aid the contributors, not the other way around.
+
+* * * * *
+
+Wales is right about one thing, though. This fact does have enormous
+policy implications. If Wikipedia is written by occasional contributors,
+then growing it requires making it easier and more rewarding to
+contribute occasionally. Instead of trying to squeeze more work out of
+those who spend their life on Wikipedia, we need to broaden the base of
+those who contribute just a little bit.
+
+Unfortunately, precisely because such people are only occasional
+contributors, their opinions aren’t heard by the current Wikipedia
+process. They don’t get involved in policy debates, they don’t go to
+meetups, and they don’t hang out with Jimbo Wales. And so things that
+might help them get pushed on the backburner, assuming they’re even
+proposed.
+
+Out of sight is out of mind, so it’s a short hop to thinking these
+invisible people aren’t particularly important. Thus Wales’s belief that
+500 people wrote half an encyclopedia. Thus his assumption that
+outsiders contribute mostly vandalism and nonsense. And thus the
+comments you sometimes hear that making it hard to edit the site might
+be a good thing.
+
+“I’m not a wiki person who happened to go into encyclopedias,” Wales
+told the crowd at Oxford. “I’m an encyclopedia person who happened to
+use a wiki.” So perhaps his belief that Wikipedia was written in the
+traditional way isn’t surprising. Unfortunately, it is dangerous. If
+Wikipedia continues down this path of focusing on the encyclopedia at
+the expense of the wiki, it might end up not being much of either.
+
+**More:** [Further
+reading](http://en.wikipedia.org/wiki/User:AaronSw/Election/FAQ) | [Vote
+for me](http://en.wikipedia.org/wiki/User:AaronSw/Election) | [Discuss
+on
+Meta-Wiki](http://meta.wikimedia.org/wiki/Talk:Who_Writes_Wikipedia%3F)
+| [Discuss on
+Reddit](http://reddit.com/submit?url=http://www.aaronsw.com/weblog/whowriteswikipedia)
+
+**Follow ups:** [Summary of further
+research](http://aaronsw.com/weblog/writefp), [summary of
+responses](http://aaronsw.com/weblog/whowritescomments).
+
+**Additional information:** [my collection of research on this
+question](http://www.aaronsw.com/2002/whowriteswikipedia/).
+
+
 Who Writes Wikipedia? — Responses
 =================================
 
@@ -8410,6 +9639,109 @@ you find an exported community. Magazines that want to succeed will have
 to find one of their own.
 
 
+Take the Easy Way Out
+=====================
+
+September 29, 2006
+
+[Original link](http://www.aaronsw.com/weblog/easywayout)
+
+* * * * *
+
+When I was a kid, people were always telling me that there was no
+substitute for hard work. If I wanted to be smart, I had to sit and
+force myself to read hard books. If I wanted to lose weight, I had to
+force myself to exercise. If I wanted to play piano, I had to force
+myself away from the computer to practice. Cheating, they explained,
+would only cheat myself in the end.
+
+And yet today I eagerly ran to the library to grab five large books (and
+return seven more), felt an itch to go jogging, and walked away from web
+surfing so I could go practice a musical instrument. The adults were
+completely wrong.
+
+Your body’s resistance to an activity isn’t an obstacle to be overcome,
+it’s a message that you’re being an idiot, just like when your hand
+hurts after you punch a wall. The right solution isn’t to start punching
+the wall harder, it’s to look around for a tool to help you do the job.
+
+In the case of books, the key is that you need to be sure to read books
+that are at your level. If you read books about subjects you don’t know
+enough to understand or that use a dialect you’re not familiar with,
+it’s going to be hard and it’s going to be a waste of time. With losing
+weight, the key is things like the Shangri-La Diet. And with learning an
+instrument, the key is using [Bemani
+games](http://en.wikipedia.org/wiki/Bemani) that actually make music
+fun.
+
+I’ve discussed the other two in other places, but why do Bemani games
+work? First, you’re playing real music. Normally when you play piano,
+you have to start on baby songs which are both infantilizing and
+uninteresting, with real music not even on the horizon. Bemani games
+start you on real songs from the beginning. Since the reason many people
+get excited about musical instruments in the first place is the chance
+to play their favorite song, this is a pretty compelling difference. And
+the fact that the computer simplifies the song and fills in the notes
+you don’t play for you makes it possible.
+
+Second, Bemani games provide clear additional results in proportion to
+additional effort. This is what makes them so much fun. I don’t know
+about the real science, but in Barbara Ehrenreich’s novel *Kipper’s
+Game* the plot revolves around some research showing that games like
+that stimulate the pleasure centers of the brain. You get the high of
+achievement, but it quickly wears off as you get used to your new skill
+level, and so you want to do better so you can get another high.
+
+This is also what makes these games so educational. Research on experts
+has found such immediate feedback is essential to learning, calling the
+general process “deliberate practice”. In deliberate practice, “subjects
+should receive immediate informative feedback and knowledge of results
+of their performance. The subjects should repeatedly perform the same or
+similar tasks. When these conditions are met, practice improves accuracy
+and speed of performance on cognitive, perceptual, and motor tasks
+(Fitts & Posner, 1967; Gibson, 1969; Welford, 1968).” (K. Anders
+Ericsson, et. al, “[The Role of Deliberate
+Practice](http://www.freakonomics.com/pdf/DeliberatePractice(PsychologicalReview).pdf)”,
+*Psychological Review*) Your attempts aren’t random — it’s very clear
+what works and what doesn’t and you can adjust your strategies
+accordingly.
+
+Third, you can do them in small chunks. When you normally play an
+instrument, if you hit a wrong note you often keep trying until you get
+it right. But with Bemani games, the music just keeps marching on
+without you. This might at first seem a disadvantage, but it means you
+don’t get hung up on a mistake, each attempt takes at most as long the
+song does. With real music, if you hit a difficult part of the song you
+can easily get stuck trying over and over to get it right, before
+getting frustrated and giving up on the whole thing. Keeping the music
+moving forces you to look at the bigger picture.
+
+The flip side of this is that playing the games gives you a continuous
+sense of motion and progress. In the mid-1980s — the heyday of video
+game research — some psychologists were trying to find out what video
+games quite so much fun. They took the classic Wozniak/Atari game
+[Breakout](http://en.wikipedia.org/wiki/Breakout) and started removing
+components to see if kids stopped playing it. What they found was you
+could remove just about everything — the levels, the score, the bouncing
+off the paddle — everything except for the animations of the bricks
+disappearing. It was making the bricks disappear, somehow, that made the
+game fun. (Mind at Play, Loftus and Loftus)
+
+I doubt Bemani games were made with these kind of principles in mind —
+considering the history, it was probably just a coincidence. But it
+shows that you could have created Bemani from them. All you needed to do
+was pay attention to the fact that learning an instrument was
+frustrating and tried to eliminate the frustrating part. Good designers,
+when they see people having trouble using something they designed, don’t
+tell the user to try harder. They fix the design. We should take the
+same attitude when we design our life as well.
+
+*Thanks to Emmett Shear for suggesting pieces of this post.*
+
+*Updated 2006-10-09 to add the second paragraph of point three, which I
+somehow omitted originally.*
+
+
 Life in the Hospital
 ====================
 
@@ -9077,6 +10409,199 @@ the middle of the richest zip code in the country. That you can build a
 public school of equal quality for kids in the inner city is an
 impressive achievement. Just not the one I was expecting.
 
+
+Visiting Olin College
+=====================
+
+October 10, 2006
+
+[Original link](http://www.aaronsw.com/weblog/visitingolin)
+
+* * * * *
+
+Olin College is that rarest of breeds: a new one. “I didn’t realize
+people were still starting colleges,” I heard someone say when they
+first heard about it. The Franklin W. Olin Foundation, after funding
+engineering buildings on lots of college campuses, finally decided to
+try to build a whole school itself, eventually putting all of its money
+(an estimated \$400 million) into Olin College and dissolving itself.
+
+The college is not shy about spending the money. Every Olin student gets
+completely free tuition and a laptop full of engineering software. It
+has a big beautiful campus on the outskirts of Boston with three huge
+classroom buildings and six wings of dorms; each student gets a
+state-of-the-art dorm room.
+
+The buildings are big and imposing. I first visited several years ago
+over the summer, back when Olin was just starting and no one was around.
+It was odd walking through the large, newly-built buildings all alone. I
+tried to imagine what it would be like when class was in session.
+
+And here I am, years later, as I head to my first class. A kind and
+eager student, who I’ll call Lex, picked me up at the T stop and drove
+me to the campus and is now delivering me to the Computer Architecture
+course, which everyone insists is one of the best-taught on campus (by
+which, they apparently mean that the teacher is really funny). As we
+walk through the hallways at 9am I again don’t see a single other
+person. “Guess nobody wakes up this early,” I say.
+
+Lex hands me off to a student in the Computer Architecture class who
+looks exactly like I imagined: long beard, geeky shirt, started several
+open source projects. He takes me into class — which, despite Olin’s
+reasonable gender balance in the student population as a whole, remains
+mostly male — where students are gabbing about things they’ve built with
+op-amps and breadboards before things start. While I’ve heard of
+breadboards, I’ve never seen one, let alone played with one before
+class, and I have to admit I’m not sure what an op-amp is. *Wow*, I
+think, *these kids are smart.*
+
+Nobody here knows who I am — an odd experience for me, since lately I’ve
+only been hanging out with friends or going to conferences where people
+know of me. When they ask, I simply say I’m from Cambridge — a
+programmer at a startup if they push, but few do. Everybody just assumes
+I’m a prospective student visiting and looks down on me accordingly. I
+just try to keep quiet.
+
+The class itself is taken up by having students do exercises on the
+whiteboards and then share their results with the class. Students here
+seem a little less embarrassed about getting things wrong in front of
+everyone; they’re happy to describe what they did from their seats.
+After everyone has shared, the class ends, and I leave, disappointed.
+
+It’s still early, so Lex decides to take me on a tour of the facilities.
+Olin College was designed by and for engineers, the idea being that
+students who complete the program will have a full, rounded education in
+engineering. So there are classes in math and physics and basic
+principles of engineering, all unified into a project-based integrated
+courseblock or something like that. Then there are classes in materials
+science and biological science, classes in human factors and
+understanding the requirements of actual users, classes in building
+stuff and classes in using it.
+
+There are lots of toys all over, great food, and an administration which
+is always asking how they can improve things further. The place reminds
+me of nothing so much as Google, which even has a similar kind of
+campus. I suppose it makes sense: this is what happens when you have
+engineers build an institution.
+
+I grab some pasta for lunch (like at Google, the food isn’t really my
+style) and follow Lex to a table. Unlike at other schools, Lex explains,
+kids here don’t sit in cliques. Everybody knows everybody else, so the
+tables just fill up in order. We sit across from two kids who somehow
+turn the conversation from Dean Kamen’s ego to mobius strips, before
+telling us about a paper they’d written proving that a certain kind of
+graph of odd *n* can be reformulated on a mobius strip as a series of
+pentagons, showing us how by drawing on a napkin. (There are boxes of
+napkins on the tables, I notice, but not boxes of pens. Pay attention,
+institution builders!) The work seems quite impressive; I wonder if it
+could be published in an actual journal.
+
+The kids also gab about student life. So-and-so is having a birthday and
+they’re going to get a keg later to celebrate. Everybody laughs and then
+they assure me that it’s only a root beer keg. Then they’re going to get
+a bunch of ice cream too, so it’ll be a huge root beer float. After
+lunch, I head out with them to downtown Boston to grab the keg and head
+back, a process that takes up most of the afternoon.
+
+On the way back we stop at a music store. Bored, I pull out my Sidekick
+and check my email, which draws a store employee’s attention.
+Long-haired and with a weathered face in a tight black shirt, he speaks
+in a rocker’s drawl. “Whooaaaa, what is thaaaat?” he says and I quietly
+explain. He tells us how he thinks computers will eventually be replaced
+by miniature devices, which will be able to communicate with each other
+by bouncing satellite signals off the moon. “Or the sun,” he adds.
+
+To distract him, I think of saying that my companions are just the
+geniuses to build such a thing, but they save me the trouble. “Are you
+guys at MIT?” he asks. “No,” they say, and I realize Olin has a ways to
+go before its brand catches up with its curriculum. He says he has a
+friend who’s an expert in seeing the big picture and offers to hook the
+guys up so they can take on the small device manufacturers. (The Olin
+students immediately begin thinking about the tools they’d need to build
+small devices.) He takes down their names and emails before we head
+back.
+
+“You have to recognize that everyone has a point of view about
+technology,” one Olin student says thoughtfully. “They taught us that on
+the designing-for-humans course.” “And even if he is crazy,” the other
+adds, “his friend might be cool.”
+
+When we get back, I beg off from my guide Lex, saying I’d like to just
+tour the place for myself for a bit. Lex and her circle remind me a
+little of Olin cultists — whenever I ask about Olin their eyes go wide
+and they tell me that it’s the greatest place ever. Perhaps that’s true,
+I think, but I want to see for myself.
+
+As I walk around the campus in the middle of the afternoon, I notice
+it’s still empty. As far as I can tell, the campus never fills out much
+more. It turns out 300 people don’t really fill up a large campus (they
+barely fill up a large auditorium) which means the whole place feels
+like a ghost town. The immaculately cleaned, yet mysteriously empty
+buildings everywhere make just walking around feel creepy and lonely.
+
+I catch up with an old friend of mine, who I’ll call Rob, who ended up
+going to Olin. Rob is deeply cynical about the place and we head to the
+campus of Babson College (a leading business school which is literally
+located across the sidewalk from Olin) to dish. The Babson campus,
+although designed by the same hideous architect, feels like a breath of
+fresh air after Olin’s imposing emptiness. For one thing, there are
+students everywhere — Babson is over ten times the size of Olin. For
+another, the place is filled with trees, making the whole thing feel
+smaller and cozier. I don’t recall a single tree on the Olin campus, for
+whatever reason.
+
+The mistake everyone makes, Rob explains, is that they think Olin is a
+school for *hackers*, This isn’t unreasonable, since in the computer
+industry, hackers are often formally called engineers. But Olin is using
+engineer in its traditional sense, as people who just generally build
+stuff. Computer hacking makes up just a tiny part of the curriculum and
+an even smaller part of the culture. And so computer geeks who end up
+attending Olin just end up feeling left out. Rob is even thinking of
+taking programming classes at Babson.
+
+Plus, things aren’t as friendly as they seem. At orientation they were
+big on insisting Olin was a “feedback culture” — complete with
+role-playing exercises about how to properly give feedback (which Rob
+failed; he insists they claimed his invitation to lunch was “too
+negative”) — but apparently they don’t actually listen to the feedback
+much. The kids sitting near Rob at the dinner table all agree. One even
+pulls out a card they gave him with tips on the proper way to give
+feedback. (When I ask her later, Lex insists that every new batch of
+students has its own culture. And this one, she says, enjoys “shaking
+things up” while hers enjoys stabilizing them.)
+
+Despite Olin’s claims to be “working with” students, Rob insists that
+the place feels a lot more like “doing to”. Instead of having rules, for
+example, they have a loose honor code with provisions like “respect for
+others”. But “respect for others” apparently turns out to mean “respect
+for authority” in practice — a student who ran their own WiFi base
+station even after the campus IT department asked for it to be taken
+down was hauled before the student tribunal on charges of showing
+insufficient “respect for others”.
+
+All of this just makes the place feel even more creepy. I think back to
+the kids tittering about pretending to drink alcohol, about their
+soliloquies for Olin’s greatness. *Friendly fascism* is the term that
+comes to mind.
+
+It’s getting late so I try to find Lex to give me a ride home, but we
+end up at the kegger party. Olin students insist they know how to party
+just like everyone else, but as you might expect, it’s the weirdest
+party I’ve ever been too. The lights are turned down low and an iTunes
+visualizer is placed on the TV screen, as some kids try to awkwardly
+dance. But it’s not dark or drunk enough for that, so instead the girls
+go around standing on tip toes and giving each other hugs while speaking
+in high-pitched voices, before going to get costumes to prance around
+in.
+
+Finally they break open the keg (there is some humor at how the
+engineering students can’t figure out how to operate it) but the root
+beer doesn’t improve the scene much. I finally manage to find Lex and
+prevail upon her for a ride back to the train station and as we ride
+through the darkness she muses about Olin on the way home. I try to tell
+her what I feel, but it’s clear she doesn’t really want to hear it. To
+her Olin is a place of wonder; she wants validation, not refutation. I
+suppose my feedback is “too negative”.
 
 iz r childrens lrnng?
 =====================
