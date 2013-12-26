@@ -51,9 +51,9 @@ Health*](http://www.prospect.org/web/page.ww?section=root&name=ViewWeb&articleId
 “blundered miserably” and set judges the task of using this “deeply
 confused philosophy of science” to act as gatekeepers in keeping
 scientific claims from juries. Actual scientists like
-[DefendingScience.org](http://defendingscience.org/) is working to undo
-this these mistakes, but you wouldn’t know it from the rhetoric — after
-all, *Daubert*’s defenders claim their just trying to uphold sound
+[DefendingScience.org](http://defendingscience.org/) are working to undo
+these mistakes, but you wouldn’t know it from the rhetoric — after
+all, *Daubert*’s defenders claim they're just trying to uphold sound
 scientific standards. (Chris Mooney’s book *The Republican War on
 Science*, among others, has a fascinating exposé of the junk
 science/sound science notions cooked up by the PR industry to trash

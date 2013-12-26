@@ -49,7 +49,7 @@ resources and while there are some they can’t really give away to
 everyone (e.g. massages), there are others that should be easy (e.g.
 servers). Unfortunately for them, Google’s mindset is so obviously set
 that this will never happen. Even a company as woeful as Amazon is
-already kicking their but in this space, giving away storage space and
+already kicking their butt in this space, giving away storage space and
 computer power, with more in the works.
 
 But let’s imagine you had the resources to do this right, what would you
