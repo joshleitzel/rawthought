@@ -1,0 +1,80 @@
+@import "{{ site.baseurl }}/fonts/stylesheet.css";
+
+/* rhythm magic */
+body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,form,fieldset,p,blockquote,th,td {  
+        margin:0; padding:0; 
+	text-rendering: optimizeLegibility;
+}
+body { font-size: 87.5%; 
+/*  background: url("http://24ways.org/examples/compose-to-a-vertical-rhythm/underline.gif");*/
+}
+html>body { font-size: 12px;}
+p, ol,ul,  pre { font-size: 1em; margin-bottom: 1.5em; line-height: 1.5em;}
+sup { vertical-align: super; line-height: .1em}
+pre { padding-left: 1em; }
+
+h1.fronttitle {
+        font-size:3em;
+        line-height: 2em;
+        margin-bottom: 0em; 
+        text-align: left;
+}
+
+h1.title {
+        font-size:1.5em;
+        line-height: 1em;
+        margin-top: .5em;
+        margin-bottom: .5em; 
+}
+
+h1 {
+        line-height:1em;
+        font-size:1.5em;
+        font-weight:normal;
+        margin:0 0 1em 0;
+}
+h2 {
+        font-size:1.1667em;
+        line-height: 1.286em;
+        margin:1.929em 0 0.643em 0;
+        font-weight:normal;
+}
+
+body { font-family: "Georgia"; background-color: #ffd;}
+
+:link { color: #68693F; text-decoration: none; border-bottom: 1px dotted #ccc;}
+:visited { color: #68693F; text-decoration: none; }
+
+h1.title { text-align: right; }
+h1.title a:link, h1.title a:visited, h1.fronttitle a:link, h1.fronttitle a:visited { background-color: #ffa; padding: .3em; padding-top: 3em; text-decoration: none; color: #C3C36E; font-weight: bold; text-transform: uppercase; letter-spacing: .1em; font-family: "Thomas Paine", Georgia; border-bottom: none;}
+#banner { margin-left: 8em; }
+.content { max-width: 30em; margin-left: 8em;}
+hr { border: 0px;}
+hr:after { content: ""; }
+hr + p:first-letter { font-size: 3em; line-height: 1em; margin-right: 2px; display: block; float: left}
+
+.comment { color: #666;}
+.posted { text-align: right; color: #666; font-style: italic; }
+.posted :link, .posted :visited { text-decoration: none; color: #666; border-bottom: 1px dotted;}
+td { vertical-align: top;}
+h2.posttitle :link, h2.posttitle :visited { text-decoration: none; color: black;}
+
+.byline { text-align: right; color: #888; margin-right: 1em;}
+.byline :link, .byline :visited { color: #666; text-decoration: none; background: #ffc;}
+table.main { width: 100%;}
+td.content { padding-left: 4em; width: 30em}
+.sidebar { padding-left: 4em; text-align: right; color: #777; padding-right: .5em; max-width: 20em; float: right;}
+.sidebar :link, .sidebar :visited { color: #8B8A64; text-decoration: none; border-bottom: 1px dotted;}
+
+#comments_show :link, #comments_show :visited, .box :link, .box :visited { color: #555; text-decoration: none; background-color: #D2D6BC; padding: .5em; margin: -.5em; border-bottom: none;}
+blockquote { margin-left: 2em; }
+
+ul, ol { margin-left: 3em;}
+.footnotes ol { margin-left: 1.5em; }
+.footnotes hr { border-top: 1px solid #D2D6BC;  width: 8em; height: 0px; margin-left: 0; margin-top: 0; margin-bottom: 1.5em; padding-top: -1px; padding-bottom: 0px; }
+div.footnotes { color: #666; padding-top: 0;}
+
+.epigraph { padding-left: 10%; color: #666;  }
+.attribution { text-align: right; font-style: italic;}
+
+.footertag { float: right; padding-right: 2em; }

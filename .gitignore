@@ -1,3 +1,2 @@
-.DS_Store
-posts/*/*_latex.md
-combined
+_site
+_deploy
